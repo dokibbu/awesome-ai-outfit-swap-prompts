@@ -1,0 +1,66 @@
+name: Sync from aiclothswap
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  repository_dispatch:
+    types: [aiclothswap-prompts-updated]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check token
+        id: tok
+        env:
+          T: ${{ secrets.AICLOTHSWAP_TOKEN }}
+        run: |
+          if [ -z "$T" ]; then
+            echo "::warning::Secret AICLOTHSWAP_TOKEN is not set (read access to dokibbu/aiclothswap). Skipping sync."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Checkout aiclothswap (prompt data only)
+        if: steps.tok.outputs.ok == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: dokibbu/aiclothswap
+          ref: main
+          token: ${{ secrets.AICLOTHSWAP_TOKEN }}
+          path: _src
+          sparse-checkout: |
+            content/inspiration
+            apps/web-mirror/site/inspiration/img
+          sparse-checkout-cone-mode: true
+
+      - uses: actions/setup-node@v4
+        if: steps.tok.outputs.ok == 'true'
+        with:
+          node-version: 22
+
+      - name: Regenerate
+        if: steps.tok.outputs.ok == 'true'
+        run: node scripts/generate.mjs --src _src
+
+      - name: Commit if changed
+        if: steps.tok.outputs.ok == 'true'
+        run: |
+          rm -rf _src
+          git add -A
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898+github-actions[bot]@users.noreply.github.com"
+          git commit -m "sync: update from aiclothswap"
+          git push
