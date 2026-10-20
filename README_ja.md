@@ -13,6 +13,8 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Vedi-40916c)](README_it.md)
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 作例画像付きの AI 着せ替え・服交換プロンプト **204** 件を厳選。プロンプトをコピーし、写真と服をアップロードして [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts) で無料でお試しください。
 
 👉 [aiclothswap.net で無料で試す](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
@@ -1042,4 +1044,4 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 ## ライセンス
 
-MIT ライセンス。[LICENSE](LICENSE) を参照。
+[CC BY 4.0](LICENSE) ライセンスで提供されています。クレジット表記：AIClothSwap (https://aiclothswap.net)。

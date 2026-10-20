@@ -1,1 +1,6 @@
-{ "repo": "awesome-ai-outfit-swap-prompts", "featuredPerCategory": 6 }
+{
+  "repo": "awesome-ai-outfit-swap-prompts",
+  "featuredPerCategory": 6,
+  "basePath": "/inspiration",
+  "license": "CC-BY-4.0"
+}

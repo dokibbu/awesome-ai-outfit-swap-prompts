@@ -43,8 +43,9 @@ for (const f of fs.readdirSync(imgDir)) if (!keep.has(f)) fs.rmSync(path.join(im
 
 const I18N = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts/i18n.json'), 'utf8'));
 const fill = (s, v) => String(s).replace(/\{(\w+)\}/g, (_, k) => v[k] ?? '');
-const detailL = (slug) => `${SITE}/inspiration/p/${slug}/?${utm}`;
-const homeL = () => `${SITE}/inspiration?${utm}`;
+const BASE = cfg.basePath || '/inspiration'; // switch to '/outfit-swap-prompts' when it ships on aiclothswap main
+const detailL = (slug) => `${SITE}${BASE}/p/${slug}/?${utm}`;
+const homeL = () => `${SITE}${BASE}?${utm}`;
 const fence = (t) => {
   let f = '```';
   while (t.includes(f)) f += '`';
@@ -85,7 +86,7 @@ const catName = (c, t) => t.cats?.[c.slug] || c.en || c.slug;
 
 function readme(t) {
   const v = { n: items.length, home: homeL() };
-  const out = [`# ${fill(t.title, v)}`, '', badges(''), ''];
+  const out = [`# ${fill(t.title, v)}`, '', badges(''), '', '[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)', ''];
   out.push(fill(t.intro, v), '', `👉 [${t.browse}](${homeL()})`, '');
   out.push(`## ${t.contents}`, '');
   for (const { c, list } of byCat) out.push(`- ${c.icon || ''} [${catName(c, t)}](#${c.slug}) (${list.length}) · [${t.all}](cases/${c.slug}.md)`);

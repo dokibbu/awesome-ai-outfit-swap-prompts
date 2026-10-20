@@ -13,6 +13,8 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Vedi-40916c)](README_it.md)
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 A curated collection of **204** AI outfit swap and clothes swap prompts with example images. Copy a prompt, upload your photo and a garment, and try it free on [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts).
 
 👉 [Try them free on aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
@@ -1114,4 +1116,4 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 ## License
 
-MIT licensed, see [LICENSE](LICENSE).
+Licensed under [CC BY 4.0](LICENSE). Attribution: AIClothSwap (https://aiclothswap.net).

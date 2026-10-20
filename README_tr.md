@@ -13,6 +13,8 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Vedi-40916c)](README_it.md)
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 Örnek görsellerle **204** yapay zeka kıyafet değiştirme promptu. Bir prompt kopyalayın, fotoğrafınızı ve kıyafeti yükleyin, [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts) üzerinde ücretsiz deneyin.
 
 👉 [aiclothswap.net'te ücretsiz deneyin](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
@@ -1042,4 +1044,4 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 ## Lisans
 
-MIT lisansı, bkz. [LICENSE](LICENSE).
+[CC BY 4.0](LICENSE) lisansı altındadır. Atıf: AIClothSwap (https://aiclothswap.net).

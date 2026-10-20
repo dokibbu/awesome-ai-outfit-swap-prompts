@@ -13,6 +13,8 @@
 [![🇹🇷 Türkçe](https://img.shields.io/badge/%F0%9F%87%B9%F0%9F%87%B7_T%C3%BCrk%C3%A7e-G%C3%B6r%C3%BCnt%C3%BCle-d62828)](README_tr.md)
 [![🇮🇹 Italiano](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B9_Italiano-Vedi-40916c)](README_it.md)
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
+
 예시 이미지가 포함된 AI 의상 교체 프롬프트 **204**개 모음. 프롬프트를 복사하고 사진과 옷을 올려 [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)에서 무료로 체험하세요.
 
 👉 [aiclothswap.net에서 무료로 체험](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
@@ -1042,4 +1044,4 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 ## 라이선스
 
-MIT 라이선스, [LICENSE](LICENSE) 참고.
+[CC BY 4.0](LICENSE) 라이선스로 제공됩니다. 저작자 표시: AIClothSwap (https://aiclothswap.net).
