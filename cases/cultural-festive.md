@@ -1,6 +1,6 @@
 # 🏮 Cultural & Festive · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu
 
@@ -12,9 +12,9 @@ Cultural try-on: Dress the same woman from picture 1 into traditional Chinese So
 
 > Heritage aesthetics hit. Seamlessly swaps contemporary portraits into graceful traditional Song-dynasty Hanfu portraiture.
 
-<a href="https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Magenta Silk Saree Festive Look
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Magenta and gold is a classic festive saree palette for Diwali and weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Indigo Yukata Summer Festival Look
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A light cotton yukata with a contrast obi is perfect for summer festival photos.
 
-<a href="https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Embroidered Kaftan Festive Look
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a d
 
 > A flowing embroidered kaftan is a graceful choice for festive gatherings.
 
-<a href="https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Traditional Dirndl Festival Look
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a t
 
 > A classic dirndl with apron is the go-to look for autumn beer festivals.
 
-<a href="https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Embroidered Kurta Festive Set
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Emerald embroidery for festive evenings that call for colour.
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Crimson Gold Festive Saree Look
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Crimson and gold: the most celebratory saree pairing.
 
-<a href="https://aiclothswap.net/inspiration/p/crimson-gold-festive-saree-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/crimson-gold-festive-saree-look.webp" alt="Crimson Gold Festive Saree Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/crimson-gold-festive-saree-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/crimson-gold-festive-saree-look.webp" alt="Crimson Gold Festive Saree Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/crimson-gold-festive-saree-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/crimson-gold-festive-saree-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navratri Black Embroidered Kurta Menswear
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Festive kurta portraits for Navratri are a trending AI photo prompt.
 
-<a href="https://aiclothswap.net/inspiration/p/navratri-black-kurta-festive-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/navratri-black-kurta-festive-mens.webp" alt="Navratri Black Embroidered Kurta Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navratri-black-kurta-festive-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/navratri-black-kurta-festive-mens.webp" alt="Navratri Black Embroidered Kurta Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/navratri-black-kurta-festive-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/navratri-black-kurta-festive-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Crimson Ao Dai Festive Look
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Ao dai festive portraits are a beloved cultural photo style.
 
-<a href="https://aiclothswap.net/inspiration/p/crimson-ao-dai-festive-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/crimson-ao-dai-festive-look.webp" alt="Crimson Ao Dai Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/crimson-ao-dai-festive-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/crimson-ao-dai-festive-look.webp" alt="Crimson Ao Dai Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/crimson-ao-dai-festive-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/crimson-ao-dai-festive-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Coral Aso-Ebi Corset Festive Set
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Aso-ebi wedding-guest sets are a hot cultural conversation on X wedding threads.
 
-<a href="https://aiclothswap.net/inspiration/p/coral-aso-ebi-corset-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/coral-aso-ebi-corset-festive.webp" alt="Coral Aso-Ebi Corset Festive Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/coral-aso-ebi-corset-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/coral-aso-ebi-corset-festive.webp" alt="Coral Aso-Ebi Corset Festive Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/coral-aso-ebi-corset-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/coral-aso-ebi-corset-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Diwali Gold Anarkali Festive Look
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Diwali festive outfits are peaking on X as families share celebration looks.
 
-<a href="https://aiclothswap.net/inspiration/p/diwali-gold-anarkali-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/diwali-gold-anarkali-festive.webp" alt="Diwali Gold Anarkali Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/diwali-gold-anarkali-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/diwali-gold-anarkali-festive.webp" alt="Diwali Gold Anarkali Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/diwali-gold-anarkali-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/diwali-gold-anarkali-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Marigold Amber Festive Lehenga
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Harvest and marigold orange on X autumn feeds overlap pumpkin-head season — festive amber lehenga without costume faces.
 
-<a href="https://aiclothswap.net/inspiration/p/marigold-amber-festive-lehenga/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/marigold-amber-festive-lehenga.webp" alt="Marigold Amber Festive Lehenga" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/marigold-amber-festive-lehenga/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/marigold-amber-festive-lehenga.webp" alt="Marigold Amber Festive Lehenga" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/marigold-amber-festive-lehenga/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/marigold-amber-festive-lehenga/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Copper Brocade Harvest Qipao
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > October pumpkin and harvest aesthetics on X soft-map to copper brocade festive qipao looks.
 
-<a href="https://aiclothswap.net/inspiration/p/copper-brocade-harvest-qipao/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/copper-brocade-harvest-qipao.webp" alt="Copper Brocade Harvest Qipao" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/copper-brocade-harvest-qipao/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/copper-brocade-harvest-qipao.webp" alt="Copper Brocade Harvest Qipao" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/copper-brocade-harvest-qipao/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/copper-brocade-harvest-qipao/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Diwali Photo for Boys: Silk Kurta with Diyas
 
@@ -194,9 +194,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > ‘ai diwali photo prompt boy’ is spiking ahead of Diwali — a jewel-tone silk kurta with diyas and sparklers.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-diwali-photo-boy-silk-kurta/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-diwali-photo-boy-silk-kurta.webp" alt="AI Diwali Photo for Boys: Silk Kurta with Diyas" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-diwali-photo-boy-silk-kurta/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-diwali-photo-boy-silk-kurta.webp" alt="AI Diwali Photo for Boys: Silk Kurta with Diyas" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-diwali-photo-boy-silk-kurta/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-diwali-photo-boy-silk-kurta/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Diwali Couple Photo: Lehenga and Kurta
 
@@ -208,9 +208,65 @@ Keep the exact same face, hair, body and identity from image 1; dress the woman 
 
 > Diwali couple photo prompts peak now — coordinate a ruby lehenga and a cream kurta under string lights.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-diwali-couple-photo-lehenga-sherwani/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-diwali-couple-photo-lehenga-sherwani.webp" alt="AI Diwali Couple Photo: Lehenga and Kurta" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-diwali-couple-photo-lehenga-sherwani/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-diwali-couple-photo-lehenga-sherwani.webp" alt="AI Diwali Couple Photo: Lehenga and Kurta" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-diwali-couple-photo-lehenga-sherwani/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-diwali-couple-photo-lehenga-sherwani/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Gele Headwrap and Ankara Birthday Dress
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the orange and teal ankara dress with tall gele headwrap from image 2. Birthday photoshoot with gold balloons and soft studio light, joyful three-quarter pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> #BirthdayGele is trending on X — try a towering gele and ankara dress for your birthday shoot.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-gele-headwrap-ankara-birthday-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-gele-headwrap-ankara-birthday-dress.webp" alt="AI Gele Headwrap and Ankara Birthday Dress" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-gele-headwrap-ankara-birthday-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Festive Puja Silk Saree
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the magenta and gold silk saree from image 2. Festive temple courtyard with marigold garlands and oil lamps, graceful full-length pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> Ganesh devotion posts are trending in India on X — a rich silk saree for festive puja photos.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-festive-puja-silk-saree-temple/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-festive-puja-silk-saree-temple.webp" alt="AI Festive Puja Silk Saree" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-festive-puja-silk-saree-temple/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Embroidered Agbada Native Formal
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the cream embroidered agbada grand boubou with matching fila cap, subtle gold thread geometric embroidery on the chest and hem from image 2. Sunlit courtyard with carved wooden doors and soft shade, three-quarter formal portrait. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> Nigerian-inspired native formal is a festive standout — cream agbada with gold geometric embroidery, no logos.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/embroidered-agbada-native-formal/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/embroidered-agbada-native-formal.webp" alt="Embroidered Agbada Native Formal" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/embroidered-agbada-native-formal/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Geometric Kaftan Festive Evening
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the floor-length emerald and gold geometric-print kaftan with wide sleeves and a matching soft headwrap from image 2. Evening festive reception with warm string lights and tropical plants, full-body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> A bold geometric kaftan brings cultural festive glamour — emerald and gold without brand marks.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/geometric-kaftan-festive-evening/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/geometric-kaftan-festive-evening.webp" alt="Geometric Kaftan Festive Evening" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/geometric-kaftan-festive-evening/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Modern Hanbok Festive Dress
 
@@ -222,9 +278,9 @@ Cultural try-on: dress the same woman from picture 1 into the modern pastel hanb
 
 > Modern pastel hanbok-inspired festive dress with soft ribbons.
 
-<a href="https://aiclothswap.net/inspiration/p/modern-hanbok-festive-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/modern-hanbok-festive-dress.webp" alt="Modern Hanbok Festive Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/modern-hanbok-festive-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/modern-hanbok-festive-dress.webp" alt="Modern Hanbok Festive Dress" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/modern-hanbok-festive-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/modern-hanbok-festive-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Floral Silk Qipao for New Year
 
@@ -236,6 +292,6 @@ Keep identity from image 1. Dress her in the crimson floral silk qipao from imag
 
 > Crimson floral silk qipao for New Year festive try-ons.
 
-<a href="https://aiclothswap.net/inspiration/p/qipao-silk-floral-new-year/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/qipao-silk-floral-new-year.webp" alt="Floral Silk Qipao for New Year" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/qipao-silk-floral-new-year/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/qipao-silk-floral-new-year.webp" alt="Floral Silk Qipao for New Year" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/qipao-silk-floral-new-year/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/qipao-silk-floral-new-year/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

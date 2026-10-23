@@ -15,30 +15,31 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-A curated collection of **204** AI outfit swap and clothes swap prompts with example images. Copy a prompt, upload your photo and a garment, and try it free on [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts).
+A curated collection of **276** AI outfit swap and clothes swap prompts with example images. Copy a prompt, upload your photo and a garment, and try it free on [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts).
 
-👉 [Try them free on aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+👉 [Try them free on aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ## Contents
 
-- 🪪 [ID & Headshot](#id-headshot) (17) · [all](cases/id-headshot.md)
-- 💍 [Wedding](#wedding) (17) · [all](cases/wedding.md)
-- ✨ [Formal & Events](#formal-events) (17) · [all](cases/formal-events.md)
-- 💼 [Office & Business](#office-business) (17) · [all](cases/office-business.md)
-- 🍸 [Date & Party](#date-party) (17) · [all](cases/date-party.md)
-- 🎃 [Halloween & Costume](#halloween-costume) (17) · [all](cases/halloween-costume.md)
-- 🏮 [Cultural & Festive](#cultural-festive) (17) · [all](cases/cultural-festive.md)
-- ⚽ [Jersey & Sports](#jersey-sports) (17) · [all](cases/jersey-sports.md)
-- 🏖️ [Casual & Travel](#casual-travel) (17) · [all](cases/casual-travel.md)
-- 🕶️ [Menswear](#menswear) (17) · [all](cases/menswear.md)
-- 🎨 [Color Swap](#color-swap) (17) · [all](cases/color-swap.md)
-- 🛍️ [E-commerce Model](#ecommerce-model) (17) · [all](cases/ecommerce-model.md)
+- 🪪 [ID & Headshot](#id-headshot) (21) · [all](cases/id-headshot.md)
+- 💍 [Wedding](#wedding) (21) · [all](cases/wedding.md)
+- ✨ [Formal & Events](#formal-events) (21) · [all](cases/formal-events.md)
+- 💼 [Office & Business](#office-business) (21) · [all](cases/office-business.md)
+- 🍸 [Date & Party](#date-party) (21) · [all](cases/date-party.md)
+- 🎃 [Halloween & Costume](#halloween-costume) (21) · [all](cases/halloween-costume.md)
+- 🏮 [Cultural & Festive](#cultural-festive) (21) · [all](cases/cultural-festive.md)
+- ⚽ [Jersey & Sports](#jersey-sports) (21) · [all](cases/jersey-sports.md)
+- 🏖️ [Casual & Travel](#casual-travel) (21) · [all](cases/casual-travel.md)
+- 🕶️ [Menswear](#menswear) (21) · [all](cases/menswear.md)
+- 🎨 [Color Swap](#color-swap) (21) · [all](cases/color-swap.md)
+- 🛍️ [E-commerce Model](#ecommerce-model) (21) · [all](cases/ecommerce-model.md)
+- 🎉 [Holiday Looks](#holiday-looks) (24) · [all](cases/holiday-looks.md)
 
 <a id="id-headshot"></a>
 
 ## 🪪 ID & Headshot
 
-Featured 6 · [See all 17](cases/id-headshot.md)
+Featured 6 · [See all 21](cases/id-headshot.md)
 
 ### LinkedIn Professional Navy Suit Headshot
 
@@ -50,9 +51,9 @@ Keep the exact same face, hair and identity from image 1; dress her in a tailore
 
 > Gold standard for resume and professional headshots. Specifying a tailored single-breasted blazer with solid studio lighting ensures a clean neckline fit.
 
-<a href="https://aiclothswap.net/inspiration/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/id-headshot-navy-suit.webp" alt="LinkedIn Professional Navy Suit Headshot" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/id-headshot-navy-suit.webp" alt="LinkedIn Professional Navy Suit Headshot" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Charcoal Crewneck Professional ID Portrait
 
@@ -64,9 +65,9 @@ Keep the exact same face, hair and identity from image 1; dress her in the charc
 
 > Clean crewneck sweater headshot look. Soft studio light keeps neckline sharp for LinkedIn/ID use.
 
-<a href="https://aiclothswap.net/inspiration/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-crewneck-id-portrait.webp" alt="Charcoal Crewneck Professional ID Portrait" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-crewneck-id-portrait.webp" alt="Charcoal Crewneck Professional ID Portrait" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Crisp White Oxford Shirt Men's Headshot
 
@@ -78,9 +79,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A classic white oxford shirt reads polished in any resume or badge photo.
 
-<a href="https://aiclothswap.net/inspiration/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/white-oxford-shirt-mens-headshot.webp" alt="Crisp White Oxford Shirt Men's Headshot" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/white-oxford-shirt-mens-headshot.webp" alt="Crisp White Oxford Shirt Men's Headshot" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Fine-Knit Turtleneck Creative Headshot
 
@@ -92,9 +93,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A sleek turtleneck gives a modern, minimal profile photo for creatives.
 
-<a href="https://aiclothswap.net/inspiration/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-turtleneck-creative-headshot.webp" alt="Black Fine-Knit Turtleneck Creative Headshot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-turtleneck-creative-headshot.webp" alt="Black Fine-Knit Turtleneck Creative Headshot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Linen Blazer Natural-Light Headshot
 
@@ -106,9 +107,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a s
 
 > A soft sage blazer reads approachable yet polished for profile photos.
 
-<a href="https://aiclothswap.net/inspiration/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-linen-blazer-headshot.webp" alt="Sage Linen Blazer Natural-Light Headshot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-linen-blazer-headshot.webp" alt="Sage Linen Blazer Natural-Light Headshot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navy Fine-Knit Cardigan ID Photo
 
@@ -120,15 +121,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a n
 
 > A neat navy cardigan over a collared shirt keeps ID photos tidy and modest.
 
-<a href="https://aiclothswap.net/inspiration/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-cardigan-id-photo.webp" alt="Navy Fine-Knit Cardigan ID Photo" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-cardigan-id-photo.webp" alt="Navy Fine-Knit Cardigan ID Photo" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="wedding"></a>
 
 ## 💍 Wedding
 
-Featured 6 · [See all 17](cases/wedding.md)
+Featured 6 · [See all 21](cases/wedding.md)
 
 ### French Minimalist Backless Satin Bridal Gown
 
@@ -140,9 +141,9 @@ Virtual try-on: preserve face, skin tone, hair and pose of the woman in image 1.
 
 > Use a 2:3 portrait aspect ratio for cathedral train gowns to fully capture the dramatic satin drape and subtle sheen.
 
-<a href="https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ivory Dinner Jacket Groom Look
 
@@ -154,9 +155,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > An ivory dinner jacket is a timeless groom option for warm-weather weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Boho Flutter-Sleeve Beach Wedding Dress
 
@@ -168,9 +169,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Light chiffon and flutter sleeves suit beach and destination weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Tulle Ball Gown Garden Wedding
 
@@ -182,9 +183,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 
 > A full tulle skirt photographs dreamy in an outdoor garden ceremony.
 
-<a href="https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Green Groomsman Suit Rustic Wedding
 
@@ -196,9 +197,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a s
 
 > Sage suits are a fresh alternative to gray for barn and garden weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Classic Bouquet Over-Shoulder Bride
 
@@ -210,15 +211,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > The timeless over-shoulder bouquet glance every bridal album needs.
 
-<a href="https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="formal-events"></a>
 
 ## ✨ Formal & Events
 
-Featured 6 · [See all 17](cases/formal-events.md)
+Featured 6 · [See all 21](cases/formal-events.md)
 
 ### Emerald Green Velvet Gala Evening Gown
 
@@ -230,9 +231,9 @@ Change clothes: Dress the model from image 1 in the floor-length emerald green v
 
 > Specifying 'velvet sheen' and emerald jewel tones helps the AI accurately render deep fabric texture and silhouette contours.
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-formal-evening-dress.webp" alt="Emerald Green Velvet Gala Evening Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-formal-evening-dress.webp" alt="Emerald Green Velvet Gala Evening Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Midnight Blue Velvet Tuxedo Gala Look
 
@@ -244,9 +245,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Velvet in midnight blue is a refined alternative to the classic black tux.
 
-<a href="https://aiclothswap.net/inspiration/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/midnight-velvet-tuxedo-gala.webp" alt="Midnight Blue Velvet Tuxedo Gala Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/midnight-velvet-tuxedo-gala.webp" alt="Midnight Blue Velvet Tuxedo Gala Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ruby One-Shoulder Satin Evening Gown
 
@@ -258,9 +259,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A one-shoulder drape keeps a red gown modern and dramatic.
 
-<a href="https://aiclothswap.net/inspiration/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ruby-one-shoulder-satin-gown.webp" alt="Ruby One-Shoulder Satin Evening Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ruby-one-shoulder-satin-gown.webp" alt="Ruby One-Shoulder Satin Evening Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cobalt Cape-Sleeve Crepe Gala Gown
 
@@ -272,9 +273,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a c
 
 > Cape sleeves give a column gown drama without extra embellishment.
 
-<a href="https://aiclothswap.net/inspiration/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cobalt-cape-sleeve-gala-gown.webp" alt="Cobalt Cape-Sleeve Crepe Gala Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cobalt-cape-sleeve-gala-gown.webp" alt="Cobalt Cape-Sleeve Crepe Gala Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Charcoal Shawl-Collar Tuxedo Opera Night
 
@@ -286,9 +287,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a c
 
 > A charcoal tux is a subtle twist on black tie for evening events.
 
-<a href="https://aiclothswap.net/inspiration/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-shawl-tux-opera.webp" alt="Charcoal Shawl-Collar Tuxedo Opera Night" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-shawl-tux-opera.webp" alt="Charcoal Shawl-Collar Tuxedo Opera Night" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Lace Gothic Gala Gown
 
@@ -300,15 +301,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Gothic romance translated into black-tie elegance.
 
-<a href="https://aiclothswap.net/inspiration/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-gala-gown.webp" alt="Black Lace Gothic Gala Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-gala-gown.webp" alt="Black Lace Gothic Gala Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="office-business"></a>
 
 ## 💼 Office & Business
 
-Featured 6 · [See all 17](cases/office-business.md)
+Featured 6 · [See all 21](cases/office-business.md)
 
 ### Minimalist Oatmeal Wool Blazer Office Look
 
@@ -320,9 +321,9 @@ Fit the adult woman in photo 1 with the oversized oatmeal tailored wool blazer a
 
 > One of our top commuter looks. The 3:4 aspect ratio perfectly balances the tailored blazer cut with natural waistline proportions.
 
-<a href="https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Camel Wide-Leg Trouser Suit
 
@@ -334,9 +335,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A tonal camel suit with wide legs feels polished but relaxed for the office.
 
-<a href="https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Light Blue Shirt & Chinos Business Casual
 
@@ -348,9 +349,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Light blue and khaki is the easiest business-casual combo to get right.
 
-<a href="https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pinstripe Vest & Trouser Office Set
 
@@ -362,9 +363,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a n
 
 > A matching vest and trouser set is a modern take on the three-piece suit.
 
-<a href="https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cream Shell Top & Black Trousers Meeting Look
 
@@ -376,9 +377,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a c
 
 > A simple shell top and slim trousers is a reliable meeting-day uniform.
 
-<a href="https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Brown Trouser Suit Office Look
 
@@ -390,15 +391,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Chocolate brown is this autumn's softer alternative to black suiting.
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="date-party"></a>
 
 ## 🍸 Date & Party
 
-Featured 6 · [See all 17](cases/date-party.md)
+Featured 6 · [See all 21](cases/date-party.md)
 
 ### French Mulberry Silk Slip Dress Evening Date
 
@@ -410,9 +411,9 @@ Virtual try-on prompt: Keep the person identity and face from image 1 intact. Ch
 
 > The fluid drape and luminous highlights of silk satin are key to this prompt—ideal for romantic date nights and cocktail parties.
 
-<a href="https://aiclothswap.net/inspiration/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-silk-slip-dress-dating.webp" alt="French Mulberry Silk Slip Dress Evening Date" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-silk-slip-dress-dating.webp" alt="French Mulberry Silk Slip Dress Evening Date" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Satin Wrap Midi Date-Night Dress
 
@@ -424,9 +425,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Satin in a jewel tone catches candlelight beautifully for dinner dates.
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-satin-wrap-midi-date-night.webp" alt="Emerald Satin Wrap Midi Date-Night Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-satin-wrap-midi-date-night.webp" alt="Emerald Satin Wrap Midi Date-Night Dress" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Burgundy Velvet Blazer Party Look
 
@@ -438,9 +439,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A velvet blazer over a tee is an easy dressed-up night-out look.
 
-<a href="https://aiclothswap.net/inspiration/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/burgundy-velvet-blazer-party-mens.webp" alt="Burgundy Velvet Blazer Party Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/burgundy-velvet-blazer-party-mens.webp" alt="Burgundy Velvet Blazer Party Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Lilac Satin Slip Skirt & Knit Date Look
 
@@ -452,9 +453,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a l
 
 > A satin skirt with a soft knit balances dressy and relaxed for dinner dates.
 
-<a href="https://aiclothswap.net/inspiration/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/lilac-satin-slip-skirt-date.webp" alt="Lilac Satin Slip Skirt & Knit Date Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/lilac-satin-slip-skirt-date.webp" alt="Lilac Satin Slip Skirt & Knit Date Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Sequin Blazer Dress Party Look
 
@@ -466,9 +467,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a b
 
 > A sequin blazer dress is sharp tailoring with full party sparkle.
 
-<a href="https://aiclothswap.net/inspiration/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-sequin-blazer-dress-party.webp" alt="Black Sequin Blazer Dress Party Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-sequin-blazer-dress-party.webp" alt="Black Sequin Blazer Dress Party Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Y2K Denim Party Two-Piece
 
@@ -480,15 +481,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Y2K denim-on-denim is back for party nights.
 
-<a href="https://aiclothswap.net/inspiration/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/y2k-denim-party-two-piece.webp" alt="Y2K Denim Party Two-Piece" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/y2k-denim-party-two-piece.webp" alt="Y2K Denim Party Two-Piece" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="halloween-costume"></a>
 
 ## 🎃 Halloween & Costume
 
-Featured 6 · [See all 17](cases/halloween-costume.md)
+Featured 6 · [See all 21](cases/halloween-costume.md)
 
 ### Gothic Victorian Vampire Embroidered Long Coat
 
@@ -500,9 +501,9 @@ Vertical mobile try-on: Keep the adult model identity from image 1. Put on the g
 
 > Popular 9:16 vertical ratio for social video transforms. Captures sharp standing collars, intricate brocade, and moody cinematic lighting.
 
-<a href="https://aiclothswap.net/inspiration/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-vampire-victorian-coat.webp" alt="Gothic Victorian Vampire Embroidered Long Coat" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-vampire-victorian-coat.webp" alt="Gothic Victorian Vampire Embroidered Long Coat" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Retro Space Explorer Jumpsuit Costume
 
@@ -514,9 +515,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A clean silver-and-white jumpsuit makes an instantly readable space costume.
 
-<a href="https://aiclothswap.net/inspiration/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-space-explorer-jumpsuit-costume.webp" alt="Retro Space Explorer Jumpsuit Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-space-explorer-jumpsuit-costume.webp" alt="Retro Space Explorer Jumpsuit Costume" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pirate Captain Long Coat Costume
 
@@ -528,9 +529,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A long brocade-style coat sells the pirate captain look at any party.
 
-<a href="https://aiclothswap.net/inspiration/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pirate-captain-coat-costume.webp" alt="Pirate Captain Long Coat Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pirate-captain-coat-costume.webp" alt="Pirate Captain Long Coat Costume" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Mad Scientist Lab Coat Costume
 
@@ -542,9 +543,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a l
 
 > A stained lab coat with goggles is an easy, recognizable costume.
 
-<a href="https://aiclothswap.net/inspiration/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mad-scientist-lab-coat-costume.webp" alt="Mad Scientist Lab Coat Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mad-scientist-lab-coat-costume.webp" alt="Mad Scientist Lab Coat Costume" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Forest Elf Tunic & Cloak Costume
 
@@ -556,9 +557,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 
 > Layered greens and a hooded cloak make a fantasy elf look wearable.
 
-<a href="https://aiclothswap.net/inspiration/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/fairy-tale-forest-elf-costume.webp" alt="Forest Elf Tunic & Cloak Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/fairy-tale-forest-elf-costume.webp" alt="Forest Elf Tunic & Cloak Costume" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Gothic Horror Victorian Dress Costume
 
@@ -570,15 +571,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Gothic horror is Halloween 2026's defining costume mood.
 
-<a href="https://aiclothswap.net/inspiration/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-horror-victorian-dress-costume.webp" alt="Gothic Horror Victorian Dress Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-horror-victorian-dress-costume.webp" alt="Gothic Horror Victorian Dress Costume" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="cultural-festive"></a>
 
 ## 🏮 Cultural & Festive
 
-Featured 6 · [See all 17](cases/cultural-festive.md)
+Featured 6 · [See all 21](cases/cultural-festive.md)
 
 ### Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu
 
@@ -590,9 +591,9 @@ Cultural try-on: Dress the same woman from picture 1 into traditional Chinese So
 
 > Heritage aesthetics hit. Seamlessly swaps contemporary portraits into graceful traditional Song-dynasty Hanfu portraiture.
 
-<a href="https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Magenta Silk Saree Festive Look
 
@@ -604,9 +605,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Magenta and gold is a classic festive saree palette for Diwali and weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Indigo Yukata Summer Festival Look
 
@@ -618,9 +619,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A light cotton yukata with a contrast obi is perfect for summer festival photos.
 
-<a href="https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Embroidered Kaftan Festive Look
 
@@ -632,9 +633,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a d
 
 > A flowing embroidered kaftan is a graceful choice for festive gatherings.
 
-<a href="https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Traditional Dirndl Festival Look
 
@@ -646,9 +647,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a t
 
 > A classic dirndl with apron is the go-to look for autumn beer festivals.
 
-<a href="https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Embroidered Kurta Festive Set
 
@@ -660,15 +661,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Emerald embroidery for festive evenings that call for colour.
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="jersey-sports"></a>
 
 ## ⚽ Jersey & Sports
 
-Featured 6 · [See all 17](cases/jersey-sports.md)
+Featured 6 · [See all 21](cases/jersey-sports.md)
 
 ### Vintage American Striped Sports Basketball Jersey
 
@@ -680,9 +681,9 @@ Swap outfit on athlete in photo 1 with the retro vintage striped basketball jers
 
 > Sports jersey swaps demand crisp collar and sleeve alignment. Supplying a flat-lay jersey image gives the most accurate badge and trim placement.
 
-<a href="https://aiclothswap.net/inspiration/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vintage-retro-club-sports-jersey.webp" alt="Vintage American Striped Sports Basketball Jersey" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vintage-retro-club-sports-jersey.webp" alt="Vintage American Striped Sports Basketball Jersey" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Basketball Jersey Court Look
 
@@ -694,9 +695,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A clean, number-free jersey keeps the try-on focused on fit and color.
 
-<a href="https://aiclothswap.net/inspiration/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-basketball-jersey-court.webp" alt="Basketball Jersey Court Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-basketball-jersey-court.webp" alt="Basketball Jersey Court Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Road Cycling Kit Ride Look
 
@@ -708,9 +709,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A coordinated jersey and bib set gives a pro-looking ride photo.
 
-<a href="https://aiclothswap.net/inspiration/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/road-cycling-kit-ride.webp" alt="Road Cycling Kit Ride Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/road-cycling-kit-ride.webp" alt="Road Cycling Kit Ride Look" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ice Hockey Jersey Rink Look
 
@@ -722,9 +723,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a p
 
 > An oversized hockey jersey doubles as game-day streetwear.
 
-<a href="https://aiclothswap.net/inspiration/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-hockey-jersey-rink.webp" alt="Ice Hockey Jersey Rink Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-hockey-jersey-rink.webp" alt="Ice Hockey Jersey Rink Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Seamless Yoga Set Studio Look
 
@@ -736,9 +737,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a d
 
 > A matching yoga set is a clean, versatile activewear look.
 
-<a href="https://aiclothswap.net/inspiration/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yoga-set-studio-sports.webp" alt="Seamless Yoga Set Studio Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yoga-set-studio-sports.webp" alt="Seamless Yoga Set Studio Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Retro Rugby Stripe Jersey Street Look
 
@@ -750,15 +751,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Retro rugby stripes moved from the pitch to street style.
 
-<a href="https://aiclothswap.net/inspiration/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-rugby-stripe-jersey-street.webp" alt="Retro Rugby Stripe Jersey Street Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-rugby-stripe-jersey-street.webp" alt="Retro Rugby Stripe Jersey Street Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="casual-travel"></a>
 
 ## 🏖️ Casual & Travel
 
-Featured 6 · [See all 17](cases/casual-travel.md)
+Featured 6 · [See all 21](cases/casual-travel.md)
 
 ### Mediterranean Breezy Linen Vacation Two-Piece
 
@@ -770,9 +771,9 @@ Change clothes: Take the person from image 1 and dress her in the relaxed natura
 
 > Relaxed resort wear shines with airy breathable linen textures and soft sun-drenched coastal tones.
 
-<a href="https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Breton Stripe Top City Break Outfit
 
@@ -784,9 +785,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Stripes, light denim and sneakers is the go-to city break uniform.
 
-<a href="https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Yellow Rain Shell Hiking Trip
 
@@ -798,9 +799,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A bright shell pops against misty landscapes and keeps you visible on trails.
 
-<a href="https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Utility Cargo Vest Weekend Look
 
@@ -812,9 +813,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a k
 
 > A cargo vest over a tee adds pockets and polish to a travel outfit.
 
-<a href="https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cable-Knit Cardigan Cabin Trip
 
@@ -826,9 +827,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 
 > A chunky cardigan is the coziest layer for a mountain cabin weekend.
 
-<a href="https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Forced Perspective Denim Travel Look
 
@@ -840,15 +841,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > The viral forced-perspective travel photo, in trending denim.
 
-<a href="https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="menswear"></a>
 
 ## 🕶️ Menswear
 
-Featured 6 · [See all 17](cases/menswear.md)
+Featured 6 · [See all 21](cases/menswear.md)
 
 ### Distressed Brown Leather Biker Jacket Menswear
 
@@ -860,9 +861,9 @@ Keep identical male face, hair and jawline from image 1. Swap his outfit into th
 
 > Classic statement menswear. The 2:3 framing showcases heavy leather grain, shoulder epaulets, and structured silhouette.
 
-<a href="https://aiclothswap.net/inspiration/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/distressed-leather-biker-jacket-menswear.webp" alt="Distressed Brown Leather Biker Jacket Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/distressed-leather-biker-jacket-menswear.webp" alt="Distressed Brown Leather Biker Jacket Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Camel Overcoat & Turtleneck Menswear
 
@@ -874,9 +875,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Camel over charcoal is the most reliable smart winter layering combo.
 
-<a href="https://aiclothswap.net/inspiration/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-overcoat-turtleneck-menswear.webp" alt="Camel Overcoat & Turtleneck Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-overcoat-turtleneck-menswear.webp" alt="Camel Overcoat & Turtleneck Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Linen Camp-Collar Shirt Summer Look
 
@@ -888,9 +889,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A relaxed camp collar in linen keeps summer menswear cool and sharp.
 
-<a href="https://aiclothswap.net/inspiration/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-camp-collar-shirt-summer.webp" alt="Linen Camp-Collar Shirt Summer Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-camp-collar-shirt-summer.webp" alt="Linen Camp-Collar Shirt Summer Look" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navy Wool Peacoat Menswear
 
@@ -902,9 +903,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a n
 
 > A double-breasted peacoat is a timeless cold-weather staple.
 
-<a href="https://aiclothswap.net/inspiration/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-peacoat-menswear.webp" alt="Navy Wool Peacoat Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-peacoat-menswear.webp" alt="Navy Wool Peacoat Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Brown Suede Trucker Jacket Menswear
 
@@ -916,9 +917,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a t
 
 > A suede trucker jacket elevates jeans and a tee instantly.
 
-<a href="https://aiclothswap.net/inspiration/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/brown-suede-trucker-jacket-mens.webp" alt="Brown Suede Trucker Jacket Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/brown-suede-trucker-jacket-mens.webp" alt="Brown Suede Trucker Jacket Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Suede Overshirt Menswear
 
@@ -930,15 +931,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A suede overshirt is autumn menswear's smartest layer.
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-suede-overshirt-mens.webp" alt="Chocolate Suede Overshirt Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-suede-overshirt-mens.webp" alt="Chocolate Suede Overshirt Menswear" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="color-swap"></a>
 
 ## 🎨 Color Swap
 
-Featured 6 · [See all 17](cases/color-swap.md)
+Featured 6 · [See all 21](cases/color-swap.md)
 
 ### Puffer Jacket Cobalt Blue Recolor
 
@@ -950,9 +951,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Recolor the same puffer to bold cobalt to test a brighter winter look.
 
-<a href="https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pleated Midi Skirt Sage Green Recolor
 
@@ -964,9 +965,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Try a pleated skirt in sage before you buy a second color.
 
-<a href="https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Linen Shirt Terracotta Recolor
 
@@ -978,9 +979,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a r
 
 > Recolor a basic linen shirt to a warm terracotta for summer.
 
-<a href="https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Wide-Leg Jeans Washed Black Recolor
 
@@ -992,9 +993,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in hig
 
 > See how wide-leg jeans look in washed black versus classic blue.
 
-<a href="https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Corduroy Jacket Rust Recolor
 
@@ -1006,9 +1007,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Same corduroy jacket, new rust colour: one tap, new season.
 
-<a href="https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Satin Blouse Wine Recolor
 
@@ -1020,15 +1021,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Try the same satin blouse in wine before you commit.
 
-<a href="https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="ecommerce-model"></a>
 
 ## 🛍️ E-commerce Model
 
-Featured 6 · [See all 17](cases/ecommerce-model.md)
+Featured 6 · [See all 21](cases/ecommerce-model.md)
 
 ### Ribbed Knit Midi Dress On-Model Shot
 
@@ -1040,9 +1041,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Turn a hanger shot into a clean on-model product image.
 
-<a href="https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Gray Hoodie Flat-Lay to Model Shot
 
@@ -1054,9 +1055,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Flat-lay to on-model makes basic hoodies look ready for a product page.
 
-<a href="https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Belted Trench Dress Catalog Model
 
@@ -1068,9 +1069,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a b
 
 > Turn a trench dress product shot into a clean catalog photo.
 
-<a href="https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Quilted Vest Lookbook Model
 
@@ -1082,9 +1083,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in an 
 
 > A quilted vest on-model shows fit and layering better than a flat-lay.
 
-<a href="https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Leopard Cardigan Catalog Model
 
@@ -1096,9 +1097,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > See the leopard cardigan on a model, not just flat.
 
-<a href="https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Plaid Blazer Lookbook Model
 
@@ -1110,9 +1111,99 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A plaid blazer lookbook shot that sells the whole outfit.
 
-<a href="https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+<a id="holiday-looks"></a>
+
+## 🎉 Holiday Looks
+
+Featured 6 · [See all 24](cases/holiday-looks.md)
+
+### Black Lace Corset Witch Dress
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace-up corset-bodice midi witch dress with sheer black lace sleeves and a pointed black witch hat with a short black tulle veil from image 2. Moody candle-lit Halloween parlor with dried herbs and a vintage spell book on a table, three-quarter body shot from knees up. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> Witch is the #1 Halloween 2026 costume — this lace-up corset midi with a veiled pointed hat makes it chic, not cheap.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-corset-witch-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-corset-witch-dress.webp" alt="Black Lace Corset Witch Dress" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-corset-witch-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Vampire Countess Lace Cape Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace ball gown with a high Victorian collar and a floor-length black velvet cape lined in blood-red satin from image 2. Grand gothic castle staircase lit by candelabras, full-body shot with the cape open to reveal the red lining. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> Vampire is Halloween 2026's #2 costume — a lace ball gown plus a red-lined velvet cape is the elegant way to play it.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/vampire-countess-lace-cape-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vampire-countess-lace-cape-gown.webp" alt="Vampire Countess Lace Cape Gown" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/vampire-countess-lace-cape-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Emerald Velvet Witch Coat Dress
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the deep emerald-black velvet witch coat dress with a high collar, bell sleeves, antique silver clasps and a wide-brim black witch hat from image 2. Autumn forest path at dusk with fallen leaves and lantern light, three-quarter body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> A second take on the #1 witch trend — jewel-toned velvet and silver clasps for a forest-witch look.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-witch-coat-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-witch-coat-dress.webp" alt="Emerald Velvet Witch Coat Dress" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-witch-coat-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Oxblood Velvet Vampire Tailcoat (Men)
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the oxblood velvet vampire tailcoat with a black satin waistcoat, white ruffled jabot shirt and black tailored trousers from image 2. Dim gothic library with tall candles and leather books, full-body shot standing by a carved chair. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> Vampire is #2 for Halloween 2026 — an oxblood velvet tailcoat and ruffled jabot is the classic count look for men.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/oxblood-velvet-vampire-tailcoat-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oxblood-velvet-vampire-tailcoat-mens.webp" alt="Oxblood Velvet Vampire Tailcoat (Men)" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/oxblood-velvet-vampire-tailcoat-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Black Lace Gothic Bride with Veil
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace A-line wedding gown with a sweetheart neckline, long sheer lace sleeves, a long black tulle veil and a bouquet of dark burgundy roses from image 2. Overgrown gothic chapel with candles and ivy, full-body bridal shot holding the dark rose bouquet. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> The gothic bride is surging this Halloween — black lace, a black tulle veil and dark roses.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-bride-veil/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-bride-veil.webp" alt="Black Lace Gothic Bride with Veil" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-bride-veil/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Reanimated Bride Ivory Chiffon Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the ivory draped chiffon gown with long bell sleeves, soft bandage-wrapped waist detail and a flowing floor-length skirt from image 2. Vintage laboratory set with old brass instruments, glowing bulbs and dramatic blue-white storm lighting, full-body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 9:16.
+```
+
+**Model:** GPT Image 2.5
+
+> Classic monster-bride energy is trending — ivory chiffon, bandage-wrap waist and storm-lit lab drama.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/reanimated-bride-ivory-chiffon-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/reanimated-bride-ivory-chiffon-gown.webp" alt="Reanimated Bride Ivory Chiffon Gown" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/reanimated-bride-ivory-chiffon-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ## License
 

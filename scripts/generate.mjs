@@ -3,15 +3,16 @@
 // Usage: node scripts/generate.mjs --src /path/to/aiclothswap
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const args = Object.fromEntries(
   process.argv.slice(2).reduce((acc, a, i, arr) => (a.startsWith('--') ? [...acc, [a.slice(2), arr[i + 1]]] : acc), [])
 );
-const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const SRC = path.resolve(args.src || process.env.AICLOTHSWAP_DIR || '../../aiclothswap-mvp');
 const cfg = JSON.parse(fs.readFileSync(path.join(ROOT, 'config.json'), 'utf8'));
 const DATA = path.join(SRC, 'content/inspiration');
-const IMG = path.join(SRC, 'apps/web-mirror/site/inspiration/img');
+const IMG = path.join(SRC, 'apps/web-mirror/site/outfit-swap-prompts/img');
 const readJson = (f) => JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8'));
 
 const categories = readJson('categories.json');
@@ -43,7 +44,7 @@ for (const f of fs.readdirSync(imgDir)) if (!keep.has(f)) fs.rmSync(path.join(im
 
 const I18N = JSON.parse(fs.readFileSync(path.join(ROOT, 'scripts/i18n.json'), 'utf8'));
 const fill = (s, v) => String(s).replace(/\{(\w+)\}/g, (_, k) => v[k] ?? '');
-const BASE = cfg.basePath || '/inspiration'; // switch to '/outfit-swap-prompts' when it ships on aiclothswap main
+const BASE = cfg.basePath || '/outfit-swap-prompts';
 const detailL = (slug) => `${SITE}${BASE}/p/${slug}/?${utm}`;
 const homeL = () => `${SITE}${BASE}?${utm}`;
 const fence = (t) => {

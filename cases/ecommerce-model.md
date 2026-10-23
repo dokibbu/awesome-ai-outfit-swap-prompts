@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Model · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ribbed Knit Midi Dress On-Model Shot
 
@@ -12,9 +12,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Turn a hanger shot into a clean on-model product image.
 
-<a href="https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Gray Hoodie Flat-Lay to Model Shot
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Flat-lay to on-model makes basic hoodies look ready for a product page.
 
-<a href="https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Belted Trench Dress Catalog Model
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a b
 
 > Turn a trench dress product shot into a clean catalog photo.
 
-<a href="https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Quilted Vest Lookbook Model
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in an 
 
 > A quilted vest on-model shows fit and layering better than a flat-lay.
 
-<a href="https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Leopard Cardigan Catalog Model
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > See the leopard cardigan on a model, not just flat.
 
-<a href="https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Plaid Blazer Lookbook Model
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A plaid blazer lookbook shot that sells the whole outfit.
 
-<a href="https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Burnt Orange Hoodie Editorial Poster Model
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Editorial poster model shots sell hoodies better than flat lays.
 
-<a href="https://aiclothswap.net/inspiration/p/burnt-orange-hoodie-poster-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/burnt-orange-hoodie-poster-model.webp" alt="Burnt Orange Hoodie Editorial Poster Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/burnt-orange-hoodie-poster-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/burnt-orange-hoodie-poster-model.webp" alt="Burnt Orange Hoodie Editorial Poster Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/burnt-orange-hoodie-poster-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/burnt-orange-hoodie-poster-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Linen Co-ord Catalog Model
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Linen co-ords are the catalog set every summer shop is listing.
 
-<a href="https://aiclothswap.net/inspiration/p/sage-linen-coord-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sage-linen-coord-catalog-model.webp" alt="Sage Linen Co-ord Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-coord-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sage-linen-coord-catalog-model.webp" alt="Sage Linen Co-ord Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/sage-linen-coord-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-coord-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Flash Mirror Black Set Model Shot
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Direct-flash mirror selfies are a viral AI-prompt and UGC format on X this week.
 
-<a href="https://aiclothswap.net/inspiration/p/flash-mirror-black-set-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/flash-mirror-black-set-model.webp" alt="Flash Mirror Black Set Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/flash-mirror-black-set-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/flash-mirror-black-set-model.webp" alt="Flash Mirror Black Set Model Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/flash-mirror-black-set-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/flash-mirror-black-set-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Runway Striped Knit Lookbook Model
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Editorial runway-style ecommerce templates and lookbooks are a hot maker topic on X.
 
-<a href="https://aiclothswap.net/inspiration/p/runway-striped-knit-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/runway-striped-knit-lookbook-model.webp" alt="Runway Striped Knit Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/runway-striped-knit-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/runway-striped-knit-lookbook-model.webp" alt="Runway Striped Knit Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/runway-striped-knit-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/runway-striped-knit-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Autumn Orange Knit Catalog Model
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Ecommerce makers on X push autumn-orange knits in catalog poses while pumpkin-head content peaks.
 
-<a href="https://aiclothswap.net/inspiration/p/autumn-orange-knit-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/autumn-orange-knit-catalog-model.webp" alt="Autumn Orange Knit Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/autumn-orange-knit-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/autumn-orange-knit-catalog-model.webp" alt="Autumn Orange Knit Catalog Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/autumn-orange-knit-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/autumn-orange-knit-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pumpkin-Spice Coat Lookbook Model
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Lookbook posts on X lean pumpkin-spice coats during the same week pumpkin-head photoshoot goes viral.
 
-<a href="https://aiclothswap.net/inspiration/p/pumpkin-spice-coat-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-spice-coat-lookbook-model.webp" alt="Pumpkin-Spice Coat Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-spice-coat-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-spice-coat-lookbook-model.webp" alt="Pumpkin-Spice Coat Lookbook Model" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pumpkin-spice-coat-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-spice-coat-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Fitting Room Try-On Haul: UGC Ad Shot
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > ‘try-on haul in the fitting room’ prompts are a thin, rising UGC-ad format — create one from a product photo.
 
-<a href="https://aiclothswap.net/inspiration/p/fitting-room-try-on-haul-ugc-ad/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/fitting-room-try-on-haul-ugc-ad.webp" alt="Fitting Room Try-On Haul: UGC Ad Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/fitting-room-try-on-haul-ugc-ad/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/fitting-room-try-on-haul-ugc-ad.webp" alt="Fitting Room Try-On Haul: UGC Ad Shot" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/fitting-room-try-on-haul-ugc-ad/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/fitting-room-try-on-haul-ugc-ad/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Exploded Outfit Infographic for Product Listings
 
@@ -194,9 +194,65 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Exploded outfit infographics are a fresh listing format — show the model plus every piece of the set.
 
-<a href="https://aiclothswap.net/inspiration/p/exploded-outfit-infographic-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/exploded-outfit-infographic-product-model.webp" alt="Exploded Outfit Infographic for Product Listings" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/exploded-outfit-infographic-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/exploded-outfit-infographic-product-model.webp" alt="Exploded Outfit Infographic for Product Listings" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/exploded-outfit-infographic-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/exploded-outfit-infographic-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Cozy Striped Pajama Set on Model
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the blue striped pajama set from image 2. Cozy bedroom with soft morning light and neat bed, relaxed full-body catalog pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> Cozy pajama outfits are trending on X gaming feeds — turn a flat pajama set into an on-model listing photo.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-cozy-striped-pajama-set-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-cozy-striped-pajama-set-product-model.webp" alt="AI Cozy Striped Pajama Set on Model" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-cozy-striped-pajama-set-product-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Sneaker Drop Streetwear Lookbook Model
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the sage hoodie, charcoal cargo pants and white sneakers from image 2. Light gray seamless studio, full-body lookbook pose with one foot forward to show the sneakers. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 1:1.
+```
+
+**Model:** GPT Image 2.5
+
+> Sneaker resale (スニダン) is trending in Japan — build a lookbook shot around a streetwear set.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-sneaker-drop-streetwear-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-sneaker-drop-streetwear-lookbook-model.webp" alt="AI Sneaker Drop Streetwear Lookbook Model" width="320"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-sneaker-drop-streetwear-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Winter Wool Coat Black Friday Model
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the long charcoal double-breasted winter wool coat with peak lapels and a matching self-belt from image 2. Bright ecom studio seamless, square full-body model try-on lookbook pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 1:1.
+```
+
+**Model:** GPT Image 2.5
+
+> Black Friday winter coat shots need clean flat-lay energy converted into a model try-on.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/winter-wool-coat-black-friday-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/winter-wool-coat-black-friday-model.webp" alt="Winter Wool Coat Black Friday Model" width="320"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/winter-wool-coat-black-friday-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Cropped Puffer Flatlay to Model
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the cropped cream quilted puffer jacket with a standing collar and hidden zip, shown as product-to-model try-on from image 2. Soft daylight ecom studio, three-quarter model wearing the same cropped cream puffer over a black turtleneck. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> Ecom favorite: turn a cropped puffer product flat into a believable model try-on.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cropped-puffer-flatlay-try-on/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cropped-puffer-flatlay-try-on.webp" alt="Cropped Puffer Flatlay to Model" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cropped-puffer-flatlay-try-on/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Flat Lay Garment to Studio E-commerce Model Try-On
 
@@ -208,9 +264,9 @@ Take the white background flat lay cotton shirt from image 2 and realistically d
 
 > Turn flat-lay catalog garments into realistic on-model studio lookbook images without physical photoshoots.
 
-<a href="https://aiclothswap.net/inspiration/p/minimalist-linen-ecommerce-studio-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/minimalist-linen-ecommerce-studio-model.webp" alt="Flat Lay Garment to Studio E-commerce Model Try-On" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/minimalist-linen-ecommerce-studio-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/minimalist-linen-ecommerce-studio-model.webp" alt="Flat Lay Garment to Studio E-commerce Model Try-On" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/minimalist-linen-ecommerce-studio-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/minimalist-linen-ecommerce-studio-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Denim Jacket Flat Lay to Studio Model
 
@@ -222,9 +278,9 @@ Take the white-background flat-lay denim jacket from image 2 and realistically d
 
 > Flat-lay denim jacket dressed onto a white-studio e-commerce model.
 
-<a href="https://aiclothswap.net/inspiration/p/denim-jacket-flatlay-to-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-flatlay-to-model.webp" alt="Denim Jacket Flat Lay to Studio Model" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-flatlay-to-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-flatlay-to-model.webp" alt="Denim Jacket Flat Lay to Studio Model" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/denim-jacket-flatlay-to-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-flatlay-to-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Knit Sweater E-commerce Studio Try-On
 
@@ -236,6 +292,6 @@ Dress the studio model from image 1 in the cream cable-knit sweater from the fla
 
 > Cream cable-knit sweater flat-lay to catalog studio try-on.
 
-<a href="https://aiclothswap.net/inspiration/p/knit-sweater-ecommerce-studio/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/knit-sweater-ecommerce-studio.webp" alt="Knit Sweater E-commerce Studio Try-On" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/knit-sweater-ecommerce-studio/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/knit-sweater-ecommerce-studio.webp" alt="Knit Sweater E-commerce Studio Try-On" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/knit-sweater-ecommerce-studio/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/knit-sweater-ecommerce-studio/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

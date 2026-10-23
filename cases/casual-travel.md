@@ -1,6 +1,6 @@
 # 🏖️ Casual & Travel · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Mediterranean Breezy Linen Vacation Two-Piece
 
@@ -12,9 +12,9 @@ Change clothes: Take the person from image 1 and dress her in the relaxed natura
 
 > Relaxed resort wear shines with airy breathable linen textures and soft sun-drenched coastal tones.
 
-<a href="https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Breton Stripe Top City Break Outfit
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Stripes, light denim and sneakers is the go-to city break uniform.
 
-<a href="https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Yellow Rain Shell Hiking Trip
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > A bright shell pops against misty landscapes and keeps you visible on trails.
 
-<a href="https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Utility Cargo Vest Weekend Look
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a k
 
 > A cargo vest over a tee adds pockets and polish to a travel outfit.
 
-<a href="https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cable-Knit Cardigan Cabin Trip
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 
 > A chunky cardigan is the coziest layer for a mountain cabin weekend.
 
-<a href="https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Forced Perspective Denim Travel Look
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > The viral forced-perspective travel photo, in trending denim.
 
-<a href="https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Denim Maxi Skirt City Travel Look
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > The denim maxi skirt is 2026's travel staple.
 
-<a href="https://aiclothswap.net/inspiration/p/denim-maxi-skirt-city-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-maxi-skirt-city-travel.webp" alt="Denim Maxi Skirt City Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/denim-maxi-skirt-city-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-maxi-skirt-city-travel.webp" alt="Denim Maxi Skirt City Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/denim-maxi-skirt-city-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/denim-maxi-skirt-city-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Low-Angle Sneaker-Foreground Travel Look
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Low-angle sneaker-foreground shots are Gen-Z's travel photo grammar.
 
-<a href="https://aiclothswap.net/inspiration/p/low-angle-sneaker-foreground-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/low-angle-sneaker-foreground-travel.webp" alt="Low-Angle Sneaker-Foreground Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/low-angle-sneaker-foreground-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/low-angle-sneaker-foreground-travel.webp" alt="Low-Angle Sneaker-Foreground Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/low-angle-sneaker-foreground-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/low-angle-sneaker-foreground-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Train Window Linen Travel Look
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Train-window contemplative travel portraits are a viral aesthetic.
 
-<a href="https://aiclothswap.net/inspiration/p/train-window-linen-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/train-window-linen-travel-look.webp" alt="Train Window Linen Travel Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/train-window-linen-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/train-window-linen-travel-look.webp" alt="Train Window Linen Travel Look" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/train-window-linen-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/train-window-linen-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Beige Trench Paris Street Travel Look
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Paris Fashion Week street style and beige trench coats are everywhere on X.
 
-<a href="https://aiclothswap.net/inspiration/p/beige-trench-paris-street-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/beige-trench-paris-street-travel.webp" alt="Beige Trench Paris Street Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/beige-trench-paris-street-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/beige-trench-paris-street-travel.webp" alt="Beige Trench Paris Street Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/beige-trench-paris-street-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/beige-trench-paris-street-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Autumn Plaid Bucket-Hat Travel Look
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Autumn retro plaid shirt + bucket hat street portraits are circulating as casual OOTD.
 
-<a href="https://aiclothswap.net/inspiration/p/autumn-plaid-bucket-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/autumn-plaid-bucket-travel-look.webp" alt="Autumn Plaid Bucket-Hat Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/autumn-plaid-bucket-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/autumn-plaid-bucket-travel-look.webp" alt="Autumn Plaid Bucket-Hat Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/autumn-plaid-bucket-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/autumn-plaid-bucket-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pumpkin-Patch Flannel Travel Look
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Pumpkin-head photoshoot locations are patches and farms — flannel + denim is the travel outfit half of the trend.
 
-<a href="https://aiclothswap.net/inspiration/p/pumpkin-patch-flannel-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-patch-flannel-travel-look.webp" alt="Pumpkin-Patch Flannel Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-patch-flannel-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-patch-flannel-travel-look.webp" alt="Pumpkin-Patch Flannel Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pumpkin-patch-flannel-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-patch-flannel-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Rust Quilted Fall Travel Coat
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Post-shoot autumn travel on X leans rust quilted coats after pumpkin-head photo days.
 
-<a href="https://aiclothswap.net/inspiration/p/rust-quilted-fall-travel-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/rust-quilted-fall-travel-coat.webp" alt="Rust Quilted Fall Travel Coat" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/rust-quilted-fall-travel-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/rust-quilted-fall-travel-coat.webp" alt="Rust Quilted Fall Travel Coat" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/rust-quilted-fall-travel-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/rust-quilted-fall-travel-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Pumpkin Patch Photoshoot Outfit Ideas: Flannel and Knit
 
@@ -194,9 +194,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > ‘pumpkin head photoshoot outfit ideas’ is a top autocomplete — we skip the pumpkin head and nail the outfit in the patch.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-pumpkin-patch-outfit-ideas-flannel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pumpkin-patch-outfit-ideas-flannel.webp" alt="AI Pumpkin Patch Photoshoot Outfit Ideas: Flannel and Knit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-pumpkin-patch-outfit-ideas-flannel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pumpkin-patch-outfit-ideas-flannel.webp" alt="AI Pumpkin Patch Photoshoot Outfit Ideas: Flannel and Knit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-pumpkin-patch-outfit-ideas-flannel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-pumpkin-patch-outfit-ideas-flannel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Outfit Breakdown Prompt: City Travel Look
 
@@ -208,9 +208,63 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > ‘ai outfit breakdown prompt’ is the #1 long tail this week — apply it to a comfy city-break outfit.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-outfit-breakdown-prompt-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-outfit-breakdown-prompt-travel-look.webp" alt="AI Outfit Breakdown Prompt: City Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-outfit-breakdown-prompt-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-outfit-breakdown-prompt-travel-look.webp" alt="AI Outfit Breakdown Prompt: City Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-outfit-breakdown-prompt-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-outfit-breakdown-prompt-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Windy Day Belted Trench Coat
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the khaki belted trench coat from image 2. Breezy autumn city street with leaves blowing, coat hem moving in the wind, walking pose, full body. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-windy-day-belted-trench-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-windy-day-belted-trench-coat.webp" alt="AI Windy Day Belted Trench Coat" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-windy-day-belted-trench-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Autumn Alpine Hiking Fleece Outfit
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the rust half-zip fleece and olive hiking pants from image 2. Autumn alpine trail with red and gold foliage and distant peaks, walking pose with plain backpack, full body. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:3.
+```
+
+**Model:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-autumn-alpine-hiking-fleece-outfit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-autumn-alpine-hiking-fleece-outfit.webp" alt="AI Autumn Alpine Hiking Fleece Outfit" width="320"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-autumn-alpine-hiking-fleece-outfit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Cropped Cloud Puffer Wide Denim
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the cropped voluminous cloud-grey puffer jacket over a fitted black turtleneck with indigo wide-leg denim and chunky sneakers from image 2. Windy autumn city street with fallen leaves, three-quarter walking pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> Cropped voluminous puffer plus wide-leg denim is the layering hit of mid-October.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cropped-cloud-puffer-wide-denim/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cropped-cloud-puffer-wide-denim.webp" alt="Cropped Cloud Puffer Wide Denim" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cropped-cloud-puffer-wide-denim/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Flannel Over Slip Travel Look
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the open rust-and-cream plaid flannel shirt over a black midi slip dress with ankle boots from image 2. Country road trip rest-stop with autumn trees, full-body candid stance. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> Flannel over a slip dress is a top fall travel formula — rustic shirt, sleek dress.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/flannel-shirt-over-slip-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/flannel-shirt-over-slip-travel.webp" alt="Flannel Over Slip Travel Look" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/flannel-shirt-over-slip-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Classic Denim Jacket Weekend Travel Look
 
@@ -222,9 +276,9 @@ Change clothes: take the person from image 1 and dress her in the classic denim 
 
 > Classic medium-wash denim jacket for weekend travel looks.
 
-<a href="https://aiclothswap.net/inspiration/p/denim-jacket-weekend-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-weekend-travel.webp" alt="Classic Denim Jacket Weekend Travel Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-weekend-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-weekend-travel.webp" alt="Classic Denim Jacket Weekend Travel Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/denim-jacket-weekend-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-weekend-travel/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Safari Utility Travel Set Wide Shot
 
@@ -236,6 +290,6 @@ Keep person from image 1. Dress her in the khaki safari utility travel set from 
 
 > Khaki safari utility shirt and cargos in a wide travel frame.
 
-<a href="https://aiclothswap.net/inspiration/p/safari-utility-travel-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/safari-utility-travel-set.webp" alt="Safari Utility Travel Set Wide Shot" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/safari-utility-travel-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/safari-utility-travel-set.webp" alt="Safari Utility Travel Set Wide Shot" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/safari-utility-travel-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/safari-utility-travel-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

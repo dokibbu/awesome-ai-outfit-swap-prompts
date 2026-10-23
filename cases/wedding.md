@@ -1,6 +1,6 @@
 # 💍 Wedding · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### French Minimalist Backless Satin Bridal Gown
 
@@ -12,9 +12,9 @@ Virtual try-on: preserve face, skin tone, hair and pose of the woman in image 1.
 
 > Use a 2:3 portrait aspect ratio for cathedral train gowns to fully capture the dramatic satin drape and subtle sheen.
 
-<a href="https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ivory Dinner Jacket Groom Look
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > An ivory dinner jacket is a timeless groom option for warm-weather weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Boho Flutter-Sleeve Beach Wedding Dress
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Light chiffon and flutter sleeves suit beach and destination weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Tulle Ball Gown Garden Wedding
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 
 > A full tulle skirt photographs dreamy in an outdoor garden ceremony.
 
-<a href="https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Green Groomsman Suit Rustic Wedding
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a s
 
 > Sage suits are a fresh alternative to gray for barn and garden weddings.
 
-<a href="https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Classic Bouquet Over-Shoulder Bride
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > The timeless over-shoulder bouquet glance every bridal album needs.
 
-<a href="https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Champagne Bridesmaid Mirror Check
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A mirror-check moment captures the real pre-ceremony excitement.
 
-<a href="https://aiclothswap.net/inspiration/p/champagne-bridesmaid-mirror-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/champagne-bridesmaid-mirror-check.webp" alt="Champagne Bridesmaid Mirror Check" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/champagne-bridesmaid-mirror-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/champagne-bridesmaid-mirror-check.webp" alt="Champagne Bridesmaid Mirror Check" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/champagne-bridesmaid-mirror-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/champagne-bridesmaid-mirror-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pearl Veil Soft-Focus Bride
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Soft-focus pearl veil bridal portraits are a dreamy wedding photo trend.
 
-<a href="https://aiclothswap.net/inspiration/p/pearl-veil-soft-focus-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pearl-veil-soft-focus-bride.webp" alt="Pearl Veil Soft-Focus Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pearl-veil-soft-focus-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pearl-veil-soft-focus-bride.webp" alt="Pearl Veil Soft-Focus Bride" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pearl-veil-soft-focus-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pearl-veil-soft-focus-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Midnight Velvet Groom Aisle Look
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Velvet groom suits are the statement wedding look for evening ceremonies.
 
-<a href="https://aiclothswap.net/inspiration/p/midnight-velvet-groom-aisle/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/midnight-velvet-groom-aisle.webp" alt="Midnight Velvet Groom Aisle Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-groom-aisle/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/midnight-velvet-groom-aisle.webp" alt="Midnight Velvet Groom Aisle Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/midnight-velvet-groom-aisle/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-groom-aisle/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Lilac Bishop-Sleeve Wedding Guest Gown
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Lilac wedding-guest dresses and bishop sleeves are trending hard on X wedding feeds.
 
-<a href="https://aiclothswap.net/inspiration/p/lilac-bishop-sleeve-guest-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/lilac-bishop-sleeve-guest-gown.webp" alt="Lilac Bishop-Sleeve Wedding Guest Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/lilac-bishop-sleeve-guest-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/lilac-bishop-sleeve-guest-gown.webp" alt="Lilac Bishop-Sleeve Wedding Guest Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/lilac-bishop-sleeve-guest-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/lilac-bishop-sleeve-guest-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ivory Cottagecore Garden Bride
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Cottagecore meadow-dress portraits went viral on X — soft vintage bridal energy.
 
-<a href="https://aiclothswap.net/inspiration/p/ivory-cottagecore-garden-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ivory-cottagecore-garden-bride.webp" alt="Ivory Cottagecore Garden Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ivory-cottagecore-garden-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ivory-cottagecore-garden-bride.webp" alt="Ivory Cottagecore Garden Bride" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ivory-cottagecore-garden-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ivory-cottagecore-garden-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Terracotta Chiffon Harvest Wedding Guest
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > October pumpkin-head and harvest-patch posts on X make terracotta guest dresses a natural autumn wedding pick.
 
-<a href="https://aiclothswap.net/inspiration/p/terracotta-chiffon-harvest-guest/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/terracotta-chiffon-harvest-guest.webp" alt="Terracotta Chiffon Harvest Wedding Guest" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/terracotta-chiffon-harvest-guest/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/terracotta-chiffon-harvest-guest.webp" alt="Terracotta Chiffon Harvest Wedding Guest" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/terracotta-chiffon-harvest-guest/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/terracotta-chiffon-harvest-guest/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Copper Satin Autumn Reception Bride
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Spooky-season X feeds love copper and amber formal looks for October receptions after pumpkin-patch shoots.
 
-<a href="https://aiclothswap.net/inspiration/p/copper-satin-autumn-reception-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/copper-satin-autumn-reception-bride.webp" alt="Copper Satin Autumn Reception Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/copper-satin-autumn-reception-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/copper-satin-autumn-reception-bride.webp" alt="Copper Satin Autumn Reception Bride" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/copper-satin-autumn-reception-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/copper-satin-autumn-reception-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Pre-Wedding Photoshoot: Couple at Lake Palace
 
@@ -194,9 +194,9 @@ Keep the exact same face, hair, body and identity from image 1; dress the woman 
 
 > ‘ai pre wedding photoshoot prompt’ is a rising autocomplete — try a pastel lehenga and sherwani pair at golden hour.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-pre-wedding-photoshoot-couple-lake-palace/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pre-wedding-photoshoot-couple-lake-palace.webp" alt="AI Pre-Wedding Photoshoot: Couple at Lake Palace" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-pre-wedding-photoshoot-couple-lake-palace/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pre-wedding-photoshoot-couple-lake-palace.webp" alt="AI Pre-Wedding Photoshoot: Couple at Lake Palace" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-pre-wedding-photoshoot-couple-lake-palace/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-pre-wedding-photoshoot-couple-lake-palace/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Pre-Wedding Photoshoot: City-Night Satin Gown
 
@@ -208,9 +208,65 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > City-night pre-wedding shoots are a fresh twist on the trending pre-wedding prompt — a sleek satin gown under neon bokeh.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-pre-wedding-photoshoot-city-night-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pre-wedding-photoshoot-city-night-gown.webp" alt="AI Pre-Wedding Photoshoot: City-Night Satin Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-pre-wedding-photoshoot-city-night-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-pre-wedding-photoshoot-city-night-gown.webp" alt="AI Pre-Wedding Photoshoot: City-Night Satin Gown" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-pre-wedding-photoshoot-city-night-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-pre-wedding-photoshoot-city-night-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI First-Dance Wedding Ballroom Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the ivory satin ball gown wedding dress from image 2. Wedding reception ballroom with warm chandeliers, mid-twirl first-dance pose, skirt flaring, soft spotlight. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> #dwts ballroom night is trending on X — bring the ballroom energy to a wedding first dance.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-first-dance-wedding-ballroom-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-first-dance-wedding-ballroom-gown.webp" alt="AI First-Dance Wedding Ballroom Gown" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-first-dance-wedding-ballroom-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Yoruba Traditional Wedding: Aso-Oke Couple
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress the woman and the man in the coral and gold aso-oke wrapper with gele (for her) and coral agbada with fila (for him) from image 2. Festive Yoruba traditional wedding venue with draped fabrics, joyful couple pose side by side, warm daylight. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:2.
+```
+
+**Model:** GPT Image 2.5
+
+> #BirthdayGele photos are trending on X — the same aso-oke and gele tradition shines at Yoruba weddings.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-yoruba-traditional-wedding-aso-oke-couple/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-yoruba-traditional-wedding-aso-oke-couple.webp" alt="AI Yoruba Traditional Wedding: Aso-Oke Couple" width="320"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-yoruba-traditional-wedding-aso-oke-couple/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Sheer Ivory Bow Reception Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the ivory sheer chiffon reception gown with an oversized sculptural bow at the back and a soft slip lining from image 2. Candle-lit hotel reception terrace at dusk, full-body bridal shot from behind three-quarter turning toward camera. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> Oversized bows are everywhere this season — an ivory sheer reception gown feels modern after the ceremony.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sheer-ivory-bow-reception-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sheer-ivory-bow-reception-gown.webp" alt="Sheer Ivory Bow Reception Gown" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sheer-ivory-bow-reception-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Camel Heritage Trench Civil Bride
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the camel heritage double-breasted trench coat over a simple ivory midi slip dress and pointed cream flats from image 2. City hall steps on a breezy autumn morning, three-quarter body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> Heritage trench energy is huge — camel over ivory midi is perfect for a chic civil ceremony.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-heritage-trench-civil-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/camel-heritage-trench-civil-bride.webp" alt="Camel Heritage Trench Civil Bride" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/camel-heritage-trench-civil-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Lace Illusion Neckline Bridal Gown with Cathedral Veil
 
@@ -222,9 +278,9 @@ Virtual try-on: preserve face, skin tone, hair and pose of the woman in image 1.
 
 > Illusion-neckline lace gown with cathedral veil. Preserve face and hair for bridal try-on.
 
-<a href="https://aiclothswap.net/inspiration/p/lace-illusion-cathedral-veil-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/lace-illusion-cathedral-veil-gown.webp" alt="Lace Illusion Neckline Bridal Gown with Cathedral Veil" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/lace-illusion-cathedral-veil-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/lace-illusion-cathedral-veil-gown.webp" alt="Lace Illusion Neckline Bridal Gown with Cathedral Veil" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/lace-illusion-cathedral-veil-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/lace-illusion-cathedral-veil-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Modern Minimal Satin Column Wedding Dress
 
@@ -236,6 +292,6 @@ Keep identity and pose from image 1. Dress her in the minimal ivory satin column
 
 > Minimal ivory satin column dress for a modern bridal studio look.
 
-<a href="https://aiclothswap.net/inspiration/p/modern-minimal-column-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/modern-minimal-column-wedding-dress.webp" alt="Modern Minimal Satin Column Wedding Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/modern-minimal-column-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/modern-minimal-column-wedding-dress.webp" alt="Modern Minimal Satin Column Wedding Dress" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/modern-minimal-column-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/modern-minimal-column-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

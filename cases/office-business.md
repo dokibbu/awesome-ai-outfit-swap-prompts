@@ -1,6 +1,6 @@
 # 💼 Office & Business · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Minimalist Oatmeal Wool Blazer Office Look
 
@@ -12,9 +12,9 @@ Fit the adult woman in photo 1 with the oversized oatmeal tailored wool blazer a
 
 > One of our top commuter looks. The 3:4 aspect ratio perfectly balances the tailored blazer cut with natural waistline proportions.
 
-<a href="https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Camel Wide-Leg Trouser Suit
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > A tonal camel suit with wide legs feels polished but relaxed for the office.
 
-<a href="https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Light Blue Shirt & Chinos Business Casual
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 
 > Light blue and khaki is the easiest business-casual combo to get right.
 
-<a href="https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pinstripe Vest & Trouser Office Set
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a n
 
 > A matching vest and trouser set is a modern take on the three-piece suit.
 
-<a href="https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cream Shell Top & Black Trousers Meeting Look
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a c
 
 > A simple shell top and slim trousers is a reliable meeting-day uniform.
 
-<a href="https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Brown Trouser Suit Office Look
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Chocolate brown is this autumn's softer alternative to black suiting.
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Houndstooth Office Outfit Check
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > The daily outfit check, upgraded with a classic houndstooth dress.
 
-<a href="https://aiclothswap.net/inspiration/p/houndstooth-office-outfit-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/houndstooth-office-outfit-check.webp" alt="Houndstooth Office Outfit Check" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/houndstooth-office-outfit-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/houndstooth-office-outfit-check.webp" alt="Houndstooth Office Outfit Check" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/houndstooth-office-outfit-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/houndstooth-office-outfit-check/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Monochrome Black Three-Piece Office Suit
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Monochrome tailoring is the sharpest office trend of the season.
 
-<a href="https://aiclothswap.net/inspiration/p/monochrome-black-three-piece-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/monochrome-black-three-piece-office.webp" alt="Monochrome Black Three-Piece Office Suit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/monochrome-black-three-piece-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/monochrome-black-three-piece-office.webp" alt="Monochrome Black Three-Piece Office Suit" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/monochrome-black-three-piece-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/monochrome-black-three-piece-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cream Boucle Jacket Meeting Look
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Boucle jackets are the polished meeting staple trending at work.
 
-<a href="https://aiclothswap.net/inspiration/p/cream-boucle-jacket-meeting-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cream-boucle-jacket-meeting-look.webp" alt="Cream Boucle Jacket Meeting Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cream-boucle-jacket-meeting-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/cream-boucle-jacket-meeting-look.webp" alt="Cream Boucle Jacket Meeting Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/cream-boucle-jacket-meeting-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/cream-boucle-jacket-meeting-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Office Siren Pencil-Skirt Set
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Office siren outfits — fitted blouse + pencil skirt — are flooding X style posts.
 
-<a href="https://aiclothswap.net/inspiration/p/office-siren-pencil-skirt-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/office-siren-pencil-skirt-set.webp" alt="Office Siren Pencil-Skirt Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/office-siren-pencil-skirt-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/office-siren-pencil-skirt-set.webp" alt="Office Siren Pencil-Skirt Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/office-siren-pencil-skirt-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/office-siren-pencil-skirt-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Quiet-Luxury Blazer Office Look
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Chocolate-brown jackets tagged clean-girl / old-money keep trending on X.
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-quiet-luxury-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/chocolate-quiet-luxury-blazer-office.webp" alt="Chocolate Quiet-Luxury Blazer Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-quiet-luxury-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/chocolate-quiet-luxury-blazer-office.webp" alt="Chocolate Quiet-Luxury Blazer Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/chocolate-quiet-luxury-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-quiet-luxury-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pumpkin-Spice Blazer Office Set
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Pumpkin-spice and autumn orange dominate X fall fashion — soften into a work-ready blazer set.
 
-<a href="https://aiclothswap.net/inspiration/p/pumpkin-spice-blazer-office-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-spice-blazer-office-set.webp" alt="Pumpkin-Spice Blazer Office Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-spice-blazer-office-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pumpkin-spice-blazer-office-set.webp" alt="Pumpkin-Spice Blazer Office Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pumpkin-spice-blazer-office-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pumpkin-spice-blazer-office-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Rust Corduroy Workwear Office Look
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Harvest and pumpkin-patch aesthetics on X translate to rust corduroy separates for cozy fall offices.
 
-<a href="https://aiclothswap.net/inspiration/p/rust-cord-workwear-office-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/rust-cord-workwear-office-look.webp" alt="Rust Corduroy Workwear Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/rust-cord-workwear-office-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/rust-cord-workwear-office-look.webp" alt="Rust Corduroy Workwear Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/rust-cord-workwear-office-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/rust-cord-workwear-office-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Old Money Women: Cream Tweed Office Look
 
@@ -194,9 +194,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > ‘ai old money woman’ is all over autocomplete — a cream tweed jacket and tailored trousers bring it to the office.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-old-money-women-tweed-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-tweed-office.webp" alt="AI Old Money Women: Cream Tweed Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-tweed-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-tweed-office.webp" alt="AI Old Money Women: Cream Tweed Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-old-money-women-tweed-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-tweed-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Old Money Women: Cable Knit and Pleated Skirt
 
@@ -208,9 +208,65 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Old-money women prompts lean on cable knits — pair one with a pleated midi for a country-club workday.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-old-money-women-cable-knit-pleated-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-cable-knit-pleated-skirt.webp" alt="AI Old Money Women: Cable Knit and Pleated Skirt" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-cable-knit-pleated-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-cable-knit-pleated-skirt.webp" alt="AI Old Money Women: Cable Knit and Pleated Skirt" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-old-money-women-cable-knit-pleated-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-cable-knit-pleated-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Tieless Navy Suit with Dress Sneakers
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the tieless navy suit, white shirt and white dress sneakers from image 2. Modern office lobby, full-body standing pose, relaxed confident stance. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**Model:** GPT Image 2.5
+
+> A debate on X about wearing suits with dress sneakers is trending — preview the tieless look before you decide.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-tieless-navy-suit-dress-sneakers/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-tieless-navy-suit-dress-sneakers.webp" alt="AI Tieless Navy Suit with Dress Sneakers" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-tieless-navy-suit-dress-sneakers/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Market-Open Day Women's Trouser Suit
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the ivory double-breasted trouser suit from image 2. Trading-floor style event hall with blurred screens and confetti, three-quarter pose, celebratory smile. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> Market-open and IPO talk is trending on X — try a sharp ivory trouser suit for the big day.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-market-open-bell-womens-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-market-open-bell-womens-trouser-suit.webp" alt="AI Market-Open Day Women's Trouser Suit" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-market-open-bell-womens-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Sweater Vest Oxford Pencil Office
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the cream cable-knit sweater vest over a white oxford shirt with a charcoal pencil skirt and black loafers from image 2. Bright open-plan office with soft daylight, three-quarter body commute pose. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> Sweater vest over shirt is a top fall office formula — cream cable knit keeps it soft but sharp.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sweater-vest-oxford-pencil-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/sweater-vest-oxford-pencil-office.webp" alt="Sweater Vest Oxford Pencil Office" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/sweater-vest-oxford-pencil-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Chocolate Barn Jacket Smart Casual
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the chocolate brown cotton barn jacket over a plain white tee, dark straight jeans and brown leather boots from image 2. Sunlit co-working lobby with wood and concrete, three-quarter body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> Barn jacket + tee is a fall staple — chocolate brown makes the smart-casual office look richer.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-barn-jacket-smart-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/chocolate-barn-jacket-smart-casual.webp" alt="Chocolate Barn Jacket Smart Casual" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-barn-jacket-smart-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navy Pencil Skirt Commute Set
 
@@ -222,9 +278,9 @@ Fit the adult woman in photo 1 with the navy tailored pencil skirt and matching 
 
 > Navy pencil skirt with matching blazer—sharp commute silhouette under soft office light.
 
-<a href="https://aiclothswap.net/inspiration/p/navy-pencil-skirt-commute-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/navy-pencil-skirt-commute-set.webp" alt="Navy Pencil Skirt Commute Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navy-pencil-skirt-commute-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/navy-pencil-skirt-commute-set.webp" alt="Navy Pencil Skirt Commute Set" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/navy-pencil-skirt-commute-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/navy-pencil-skirt-commute-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Soft Gray Knit Blazer Office Look
 
@@ -236,6 +292,6 @@ Keep identical face and hair from image 1. Dress her in the soft gray knit blaze
 
 > Heather-gray knit blazer over a white shell for a soft professional day look.
 
-<a href="https://aiclothswap.net/inspiration/p/soft-gray-knit-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/soft-gray-knit-blazer-office.webp" alt="Soft Gray Knit Blazer Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/soft-gray-knit-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/soft-gray-knit-blazer-office.webp" alt="Soft Gray Knit Blazer Office Look" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/soft-gray-knit-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/soft-gray-knit-blazer-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

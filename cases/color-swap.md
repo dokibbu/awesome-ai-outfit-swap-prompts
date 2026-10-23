@@ -1,6 +1,6 @@
 # 🎨 Color Swap · AI Outfit Swap Prompts
 
-[← README](../README.md) · 17 prompts · [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[← README](../README.md) · 21 prompts · [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Puffer Jacket Cobalt Blue Recolor
 
@@ -12,9 +12,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Recolor the same puffer to bold cobalt to test a brighter winter look.
 
-<a href="https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pleated Midi Skirt Sage Green Recolor
 
@@ -26,9 +26,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Try a pleated skirt in sage before you buy a second color.
 
-<a href="https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Linen Shirt Terracotta Recolor
 
@@ -40,9 +40,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a r
 
 > Recolor a basic linen shirt to a warm terracotta for summer.
 
-<a href="https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Wide-Leg Jeans Washed Black Recolor
 
@@ -54,9 +54,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in hig
 
 > See how wide-leg jeans look in washed black versus classic blue.
 
-<a href="https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Corduroy Jacket Rust Recolor
 
@@ -68,9 +68,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Same corduroy jacket, new rust colour: one tap, new season.
 
-<a href="https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Satin Blouse Wine Recolor
 
@@ -82,9 +82,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Try the same satin blouse in wine before you commit.
 
-<a href="https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Denim Jacket Olive Recolor
 
@@ -96,9 +96,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > See the same denim jacket in olive before you buy a second one.
 
-<a href="https://aiclothswap.net/inspiration/p/denim-jacket-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-olive-recolor.webp" alt="Denim Jacket Olive Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/denim-jacket-olive-recolor.webp" alt="Denim Jacket Olive Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/denim-jacket-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/denim-jacket-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Wool Coat Recolor
 
@@ -110,9 +110,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Try a classic wool coat in emerald before committing to colour.
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-wool-coat-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/emerald-wool-coat-recolor.webp" alt="Emerald Wool Coat Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-wool-coat-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/emerald-wool-coat-recolor.webp" alt="Emerald Wool Coat Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/emerald-wool-coat-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/emerald-wool-coat-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Trench Coat Olive Recolor
 
@@ -124,9 +124,9 @@ Keep the exact same face, hair, body and identity from image 1; recolor and repl
 
 > Trench coats are the outerwear story of the week — recoloring camel to olive is a natural try-on.
 
-<a href="https://aiclothswap.net/inspiration/p/trench-coat-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-coat-olive-recolor.webp" alt="Trench Coat Olive Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/trench-coat-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-coat-olive-recolor.webp" alt="Trench Coat Olive Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/trench-coat-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/trench-coat-olive-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Leather Jacket Black Recolor
 
@@ -138,9 +138,9 @@ Keep the exact same face, hair, body and identity from image 1; recolor and repl
 
 > Beige leather jackets tagged quiet luxury are circulating — black recolor is the classic swap.
 
-<a href="https://aiclothswap.net/inspiration/p/leather-jacket-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/leather-jacket-black-recolor.webp" alt="Leather Jacket Black Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/leather-jacket-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/leather-jacket-black-recolor.webp" alt="Leather Jacket Black Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/leather-jacket-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/leather-jacket-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Trench Coat Pumpkin-Orange Recolor
 
@@ -152,9 +152,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Color-swap creators on X recolor classics into pumpkin orange during pumpkin-head season.
 
-<a href="https://aiclothswap.net/inspiration/p/trench-coat-pumpkin-orange-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-coat-pumpkin-orange-recolor.webp" alt="Trench Coat Pumpkin-Orange Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/trench-coat-pumpkin-orange-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/trench-coat-pumpkin-orange-recolor.webp" alt="Trench Coat Pumpkin-Orange Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/trench-coat-pumpkin-orange-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/trench-coat-pumpkin-orange-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Blazer Amber-Spice Recolor
 
@@ -166,9 +166,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Amber-spice blazer recolors ride the same October heat as AI pumpkin-head photos on X.
 
-<a href="https://aiclothswap.net/inspiration/p/blazer-amber-spice-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/blazer-amber-spice-recolor.webp" alt="Blazer Amber-Spice Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/blazer-amber-spice-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/blazer-amber-spice-recolor.webp" alt="Blazer Amber-Spice Recolor" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/blazer-amber-spice-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/blazer-amber-spice-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Fitting Room Try-On Haul: Knit in a New Colorway
 
@@ -180,9 +180,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Fitting-room try-on hauls are a growing UGC format — test the same knit in a new color before you buy.
 
-<a href="https://aiclothswap.net/inspiration/p/fitting-room-try-on-haul-knit-colorway/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/fitting-room-try-on-haul-knit-colorway.webp" alt="Fitting Room Try-On Haul: Knit in a New Colorway" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/fitting-room-try-on-haul-knit-colorway/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/fitting-room-try-on-haul-knit-colorway.webp" alt="Fitting Room Try-On Haul: Knit in a New Colorway" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/fitting-room-try-on-haul-knit-colorway/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/fitting-room-try-on-haul-knit-colorway/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### AI Old Money Women: Cardigan Recolor to Navy
 
@@ -194,9 +194,65 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 
 > Old-money women looks hinge on navy, cream and camel — recolor a cardigan to see which shade fits you.
 
-<a href="https://aiclothswap.net/inspiration/p/ai-old-money-women-navy-cardigan-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-navy-cardigan-recolor.webp" alt="AI Old Money Women: Cardigan Recolor to Navy" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-navy-cardigan-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-old-money-women-navy-cardigan-recolor.webp" alt="AI Old Money Women: Cardigan Recolor to Navy" width="240"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/ai-old-money-women-navy-cardigan-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-old-money-women-navy-cardigan-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Marigold Fringe Dress Color Swap
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the marigold orange beaded fringe dress (keep the same cut, new color) from image 2. Neutral warm studio, full-length pose with fringe swaying. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**Model:** GPT Image 2.5
+
+> A marigold fringe gala dress sparked a color debate on X — test whether orange suits your complexion.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-marigold-fringe-dress-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-marigold-fringe-dress-color-swap.webp" alt="AI Marigold Fringe Dress Color Swap" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-marigold-fringe-dress-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### AI Tie-Dye Pants Color Swap
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the blue and lavender tie-dye pants (keep the same cut, new color) from image 2. Bright neutral studio, full-body relaxed pose, white tee unchanged. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> A bold tie-dye outfit roast is trending on X — try calmer tie-dye colors on the same pants.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ai-tie-dye-pants-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/ai-tie-dye-pants-color-swap.webp" alt="AI Tie-Dye Pants Color Swap" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/ai-tie-dye-pants-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Shacket Burgundy Chocolate Recolor
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the deep burgundy oversized wool-blend shacket over a white tee with straight blue jeans from image 2. Clean square ecom studio, full-body pose wearing the deep burgundy shacket over white tee and straight blue jeans. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 1:1.
+```
+
+**Model:** GPT Image 2.5
+
+> Shacket + straight jeans is a fall formula — swap burgundy and chocolate to test warm colorways.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/shacket-burgundy-chocolate-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/shacket-burgundy-chocolate-recolor.webp" alt="Shacket Burgundy Chocolate Recolor" width="320"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/shacket-burgundy-chocolate-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Wide-Leg Denim Wash Palette Swap
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the high-rise indigo wide-leg jeans paired with a simple white tank from image 2. Clean studio three-quarter pose wearing indigo high-rise wide-leg jeans with a white tank. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**Model:** GPT Image 2.5
+
+> Wide-leg denim layering is huge — swap washes to see indigo, black and stone side by side.
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-denim-wash-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/wide-leg-denim-wash-palette-swap.webp" alt="Wide-Leg Denim Wash Palette Swap" width="240"></a>
+
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-denim-wash-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Double-Breasted Trench Coat 4-Color Palette Swap
 
@@ -208,9 +264,9 @@ Keep identical person and trench silhouette, generate a side-by-side comparison 
 
 > Wide 16:9 canvas is ideal for displaying multi-colorway outerwear variations, perfect for e-commerce color swatch try-ons.
 
-<a href="https://aiclothswap.net/inspiration/p/pantone-palette-trench-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pantone-palette-trench-color-swap.webp" alt="Double-Breasted Trench Coat 4-Color Palette Swap" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pantone-palette-trench-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/pantone-palette-trench-color-swap.webp" alt="Double-Breasted Trench Coat 4-Color Palette Swap" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/pantone-palette-trench-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/pantone-palette-trench-color-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Wool Coat Winter Colorways Swap
 
@@ -222,9 +278,9 @@ Keep identical person and wool-coat silhouette from image 1 and garment referenc
 
 > Double-breasted wool coat shown across camel, charcoal, burgundy, and forest green.
 
-<a href="https://aiclothswap.net/inspiration/p/wool-coat-winter-colorways/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/wool-coat-winter-colorways.webp" alt="Wool Coat Winter Colorways Swap" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/wool-coat-winter-colorways/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/wool-coat-winter-colorways.webp" alt="Wool Coat Winter Colorways Swap" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/wool-coat-winter-colorways/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/wool-coat-winter-colorways/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Silk Blouse Pastel Palette Swap
 
@@ -236,6 +292,6 @@ Keep identical person and blouse silhouette; using garment from image 2, generat
 
 > Silk blouse pastel palette across blush, mint, lavender, and butter yellow.
 
-<a href="https://aiclothswap.net/inspiration/p/silk-blouse-pastel-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/silk-blouse-pastel-palette-swap.webp" alt="Silk Blouse Pastel Palette Swap" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/silk-blouse-pastel-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="../images/silk-blouse-pastel-palette-swap.webp" alt="Silk Blouse Pastel Palette Swap" width="320"></a>
 
-[Example result & try this prompt](https://aiclothswap.net/inspiration/p/silk-blouse-pastel-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[Example result & try this prompt](https://aiclothswap.net/outfit-swap-prompts/p/silk-blouse-pastel-palette-swap/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)

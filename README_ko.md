@@ -15,30 +15,31 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
-예시 이미지가 포함된 AI 의상 교체 프롬프트 **204**개 모음. 프롬프트를 복사하고 사진과 옷을 올려 [aiclothswap.net](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)에서 무료로 체험하세요.
+예시 이미지가 포함된 AI 의상 교체 프롬프트 **276**개 모음. 프롬프트를 복사하고 사진과 옷을 올려 [aiclothswap.net](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)에서 무료로 체험하세요.
 
-👉 [aiclothswap.net에서 무료로 체험](https://aiclothswap.net/inspiration?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+👉 [aiclothswap.net에서 무료로 체험](https://aiclothswap.net/outfit-swap-prompts?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ## 목차
 
-- 🪪 [증명사진·프로필](#id-headshot) (17) · [전체](cases/id-headshot.md)
-- 💍 [웨딩](#wedding) (17) · [전체](cases/wedding.md)
-- ✨ [포멀·이벤트](#formal-events) (17) · [전체](cases/formal-events.md)
-- 💼 [오피스·비즈니스](#office-business) (17) · [전체](cases/office-business.md)
-- 🍸 [데이트·파티](#date-party) (17) · [전체](cases/date-party.md)
-- 🎃 [핼러윈·코스튬](#halloween-costume) (17) · [전체](cases/halloween-costume.md)
-- 🏮 [전통·축제 의상](#cultural-festive) (17) · [전체](cases/cultural-festive.md)
-- ⚽ [유니폼·스포츠](#jersey-sports) (17) · [전체](cases/jersey-sports.md)
-- 🏖️ [캐주얼·여행](#casual-travel) (17) · [전체](cases/casual-travel.md)
-- 🕶️ [남성복](#menswear) (17) · [전체](cases/menswear.md)
-- 🎨 [컬러 변경](#color-swap) (17) · [전체](cases/color-swap.md)
-- 🛍️ [쇼핑몰 모델](#ecommerce-model) (17) · [전체](cases/ecommerce-model.md)
+- 🪪 [증명사진·프로필](#id-headshot) (21) · [전체](cases/id-headshot.md)
+- 💍 [웨딩](#wedding) (21) · [전체](cases/wedding.md)
+- ✨ [포멀·이벤트](#formal-events) (21) · [전체](cases/formal-events.md)
+- 💼 [오피스·비즈니스](#office-business) (21) · [전체](cases/office-business.md)
+- 🍸 [데이트·파티](#date-party) (21) · [전체](cases/date-party.md)
+- 🎃 [핼러윈·코스튬](#halloween-costume) (21) · [전체](cases/halloween-costume.md)
+- 🏮 [전통·축제 의상](#cultural-festive) (21) · [전체](cases/cultural-festive.md)
+- ⚽ [유니폼·스포츠](#jersey-sports) (21) · [전체](cases/jersey-sports.md)
+- 🏖️ [캐주얼·여행](#casual-travel) (21) · [전체](cases/casual-travel.md)
+- 🕶️ [남성복](#menswear) (21) · [전체](cases/menswear.md)
+- 🎨 [컬러 변경](#color-swap) (21) · [전체](cases/color-swap.md)
+- 🛍️ [쇼핑몰 모델](#ecommerce-model) (21) · [전체](cases/ecommerce-model.md)
+- 🎉 [홀리데이 룩](#holiday-looks) (24) · [전체](cases/holiday-looks.md)
 
 <a id="id-headshot"></a>
 
 ## 🪪 증명사진·프로필
 
-추천 6개 · [전체 17개 보기](cases/id-headshot.md)
+추천 6개 · [전체 21개 보기](cases/id-headshot.md)
 
 ### LinkedIn Professional Navy Suit Headshot
 
@@ -49,9 +50,9 @@ Keep the exact same face, hair and identity from image 1; dress her in a tailore
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/id-headshot-navy-suit.webp" alt="LinkedIn Professional Navy Suit Headshot" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/id-headshot-navy-suit.webp" alt="LinkedIn Professional Navy Suit Headshot" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/id-headshot-navy-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Charcoal Crewneck Professional ID Portrait
 
@@ -62,9 +63,9 @@ Keep the exact same face, hair and identity from image 1; dress her in the charc
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-crewneck-id-portrait.webp" alt="Charcoal Crewneck Professional ID Portrait" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-crewneck-id-portrait.webp" alt="Charcoal Crewneck Professional ID Portrait" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/charcoal-crewneck-id-portrait/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Crisp White Oxford Shirt Men's Headshot
 
@@ -75,9 +76,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/white-oxford-shirt-mens-headshot.webp" alt="Crisp White Oxford Shirt Men's Headshot" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/white-oxford-shirt-mens-headshot.webp" alt="Crisp White Oxford Shirt Men's Headshot" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/white-oxford-shirt-mens-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Fine-Knit Turtleneck Creative Headshot
 
@@ -88,9 +89,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-turtleneck-creative-headshot.webp" alt="Black Fine-Knit Turtleneck Creative Headshot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-turtleneck-creative-headshot.webp" alt="Black Fine-Knit Turtleneck Creative Headshot" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/black-turtleneck-creative-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Linen Blazer Natural-Light Headshot
 
@@ -101,9 +102,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a s
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-linen-blazer-headshot.webp" alt="Sage Linen Blazer Natural-Light Headshot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-linen-blazer-headshot.webp" alt="Sage Linen Blazer Natural-Light Headshot" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/sage-linen-blazer-headshot/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navy Fine-Knit Cardigan ID Photo
 
@@ -114,15 +115,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a n
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-cardigan-id-photo.webp" alt="Navy Fine-Knit Cardigan ID Photo" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-cardigan-id-photo.webp" alt="Navy Fine-Knit Cardigan ID Photo" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/navy-cardigan-id-photo/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="wedding"></a>
 
 ## 💍 웨딩
 
-추천 6개 · [전체 17개 보기](cases/wedding.md)
+추천 6개 · [전체 21개 보기](cases/wedding.md)
 
 ### French Minimalist Backless Satin Bridal Gown
 
@@ -133,9 +134,9 @@ Virtual try-on: preserve face, skin tone, hair and pose of the woman in image 1.
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-satin-bridal-wedding-gown.webp" alt="French Minimalist Backless Satin Bridal Gown" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/french-satin-bridal-wedding-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ivory Dinner Jacket Groom Look
 
@@ -146,9 +147,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ivory-dinner-jacket-groom.webp" alt="Ivory Dinner Jacket Groom Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/ivory-dinner-jacket-groom/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Boho Flutter-Sleeve Beach Wedding Dress
 
@@ -159,9 +160,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/boho-flutter-sleeve-beach-wedding-dress.webp" alt="Boho Flutter-Sleeve Beach Wedding Dress" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/boho-flutter-sleeve-beach-wedding-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Tulle Ball Gown Garden Wedding
 
@@ -172,9 +173,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/tulle-ballgown-garden-wedding.webp" alt="Tulle Ball Gown Garden Wedding" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/tulle-ballgown-garden-wedding/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Sage Green Groomsman Suit Rustic Wedding
 
@@ -185,9 +186,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a s
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/sage-groomsman-suit-rustic.webp" alt="Sage Green Groomsman Suit Rustic Wedding" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/sage-groomsman-suit-rustic/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Classic Bouquet Over-Shoulder Bride
 
@@ -198,15 +199,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/classic-bouquet-over-shoulder-bride.webp" alt="Classic Bouquet Over-Shoulder Bride" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/classic-bouquet-over-shoulder-bride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="formal-events"></a>
 
 ## ✨ 포멀·이벤트
 
-추천 6개 · [전체 17개 보기](cases/formal-events.md)
+추천 6개 · [전체 21개 보기](cases/formal-events.md)
 
 ### Emerald Green Velvet Gala Evening Gown
 
@@ -217,9 +218,9 @@ Change clothes: Dress the model from image 1 in the floor-length emerald green v
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-formal-evening-dress.webp" alt="Emerald Green Velvet Gala Evening Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-formal-evening-dress.webp" alt="Emerald Green Velvet Gala Evening Gown" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-formal-evening-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Midnight Blue Velvet Tuxedo Gala Look
 
@@ -230,9 +231,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/midnight-velvet-tuxedo-gala.webp" alt="Midnight Blue Velvet Tuxedo Gala Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/midnight-velvet-tuxedo-gala.webp" alt="Midnight Blue Velvet Tuxedo Gala Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/midnight-velvet-tuxedo-gala/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ruby One-Shoulder Satin Evening Gown
 
@@ -243,9 +244,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ruby-one-shoulder-satin-gown.webp" alt="Ruby One-Shoulder Satin Evening Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ruby-one-shoulder-satin-gown.webp" alt="Ruby One-Shoulder Satin Evening Gown" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/ruby-one-shoulder-satin-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cobalt Cape-Sleeve Crepe Gala Gown
 
@@ -256,9 +257,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a c
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cobalt-cape-sleeve-gala-gown.webp" alt="Cobalt Cape-Sleeve Crepe Gala Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cobalt-cape-sleeve-gala-gown.webp" alt="Cobalt Cape-Sleeve Crepe Gala Gown" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/cobalt-cape-sleeve-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Charcoal Shawl-Collar Tuxedo Opera Night
 
@@ -269,9 +270,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a c
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-shawl-tux-opera.webp" alt="Charcoal Shawl-Collar Tuxedo Opera Night" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/charcoal-shawl-tux-opera.webp" alt="Charcoal Shawl-Collar Tuxedo Opera Night" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/charcoal-shawl-tux-opera/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Lace Gothic Gala Gown
 
@@ -282,15 +283,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-gala-gown.webp" alt="Black Lace Gothic Gala Gown" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-gala-gown.webp" alt="Black Lace Gothic Gala Gown" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-gala-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="office-business"></a>
 
 ## 💼 오피스·비즈니스
 
-추천 6개 · [전체 17개 보기](cases/office-business.md)
+추천 6개 · [전체 21개 보기](cases/office-business.md)
 
 ### Minimalist Oatmeal Wool Blazer Office Look
 
@@ -301,9 +302,9 @@ Fit the adult woman in photo 1 with the oversized oatmeal tailored wool blazer a
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oatmeal-blazer-office-commute.webp" alt="Minimalist Oatmeal Wool Blazer Office Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/oatmeal-blazer-office-commute/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Camel Wide-Leg Trouser Suit
 
@@ -314,9 +315,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-wide-leg-trouser-suit.webp" alt="Camel Wide-Leg Trouser Suit" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/camel-wide-leg-trouser-suit/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Light Blue Shirt & Chinos Business Casual
 
@@ -327,9 +328,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/light-blue-shirt-chinos-business-casual.webp" alt="Light Blue Shirt & Chinos Business Casual" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/light-blue-shirt-chinos-business-casual/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pinstripe Vest & Trouser Office Set
 
@@ -340,9 +341,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a n
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pinstripe-vest-trouser-office.webp" alt="Pinstripe Vest & Trouser Office Set" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/pinstripe-vest-trouser-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cream Shell Top & Black Trousers Meeting Look
 
@@ -353,9 +354,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a c
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cream-shell-top-trousers-meeting.webp" alt="Cream Shell Top & Black Trousers Meeting Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/cream-shell-top-trousers-meeting/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Brown Trouser Suit Office Look
 
@@ -366,15 +367,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-brown-trouser-suit-office.webp" alt="Chocolate Brown Trouser Suit Office Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-brown-trouser-suit-office/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="date-party"></a>
 
 ## 🍸 데이트·파티
 
-추천 6개 · [전체 17개 보기](cases/date-party.md)
+추천 6개 · [전체 21개 보기](cases/date-party.md)
 
 ### French Mulberry Silk Slip Dress Evening Date
 
@@ -385,9 +386,9 @@ Virtual try-on prompt: Keep the person identity and face from image 1 intact. Ch
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-silk-slip-dress-dating.webp" alt="French Mulberry Silk Slip Dress Evening Date" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/french-silk-slip-dress-dating.webp" alt="French Mulberry Silk Slip Dress Evening Date" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/french-silk-slip-dress-dating/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Satin Wrap Midi Date-Night Dress
 
@@ -398,9 +399,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-satin-wrap-midi-date-night.webp" alt="Emerald Satin Wrap Midi Date-Night Dress" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-satin-wrap-midi-date-night.webp" alt="Emerald Satin Wrap Midi Date-Night Dress" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/emerald-satin-wrap-midi-date-night/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Burgundy Velvet Blazer Party Look
 
@@ -411,9 +412,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/burgundy-velvet-blazer-party-mens.webp" alt="Burgundy Velvet Blazer Party Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/burgundy-velvet-blazer-party-mens.webp" alt="Burgundy Velvet Blazer Party Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/burgundy-velvet-blazer-party-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Lilac Satin Slip Skirt & Knit Date Look
 
@@ -424,9 +425,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a l
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/lilac-satin-slip-skirt-date.webp" alt="Lilac Satin Slip Skirt & Knit Date Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/lilac-satin-slip-skirt-date.webp" alt="Lilac Satin Slip Skirt & Knit Date Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/lilac-satin-slip-skirt-date/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Black Sequin Blazer Dress Party Look
 
@@ -437,9 +438,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a b
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-sequin-blazer-dress-party.webp" alt="Black Sequin Blazer Dress Party Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-sequin-blazer-dress-party.webp" alt="Black Sequin Blazer Dress Party Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/black-sequin-blazer-dress-party/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Y2K Denim Party Two-Piece
 
@@ -450,15 +451,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/y2k-denim-party-two-piece.webp" alt="Y2K Denim Party Two-Piece" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/y2k-denim-party-two-piece.webp" alt="Y2K Denim Party Two-Piece" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/y2k-denim-party-two-piece/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="halloween-costume"></a>
 
 ## 🎃 핼러윈·코스튬
 
-추천 6개 · [전체 17개 보기](cases/halloween-costume.md)
+추천 6개 · [전체 21개 보기](cases/halloween-costume.md)
 
 ### Gothic Victorian Vampire Embroidered Long Coat
 
@@ -469,9 +470,9 @@ Vertical mobile try-on: Keep the adult model identity from image 1. Put on the g
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-vampire-victorian-coat.webp" alt="Gothic Victorian Vampire Embroidered Long Coat" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-vampire-victorian-coat.webp" alt="Gothic Victorian Vampire Embroidered Long Coat" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/gothic-vampire-victorian-coat/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Retro Space Explorer Jumpsuit Costume
 
@@ -482,9 +483,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-space-explorer-jumpsuit-costume.webp" alt="Retro Space Explorer Jumpsuit Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-space-explorer-jumpsuit-costume.webp" alt="Retro Space Explorer Jumpsuit Costume" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/retro-space-explorer-jumpsuit-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pirate Captain Long Coat Costume
 
@@ -495,9 +496,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pirate-captain-coat-costume.webp" alt="Pirate Captain Long Coat Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pirate-captain-coat-costume.webp" alt="Pirate Captain Long Coat Costume" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/pirate-captain-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Mad Scientist Lab Coat Costume
 
@@ -508,9 +509,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a l
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mad-scientist-lab-coat-costume.webp" alt="Mad Scientist Lab Coat Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mad-scientist-lab-coat-costume.webp" alt="Mad Scientist Lab Coat Costume" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/mad-scientist-lab-coat-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Forest Elf Tunic & Cloak Costume
 
@@ -521,9 +522,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/fairy-tale-forest-elf-costume.webp" alt="Forest Elf Tunic & Cloak Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/fairy-tale-forest-elf-costume.webp" alt="Forest Elf Tunic & Cloak Costume" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/fairy-tale-forest-elf-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Gothic Horror Victorian Dress Costume
 
@@ -534,15 +535,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-horror-victorian-dress-costume.webp" alt="Gothic Horror Victorian Dress Costume" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gothic-horror-victorian-dress-costume.webp" alt="Gothic Horror Victorian Dress Costume" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/gothic-horror-victorian-dress-costume/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="cultural-festive"></a>
 
 ## 🏮 전통·축제 의상
 
-추천 6개 · [전체 17개 보기](cases/cultural-festive.md)
+추천 6개 · [전체 21개 보기](cases/cultural-festive.md)
 
 ### Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu
 
@@ -553,9 +554,9 @@ Cultural try-on: Dress the same woman from picture 1 into traditional Chinese So
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/song-dynasty-hanfu-horse-face-skirt.webp" alt="Song Dynasty Weaving-Gold Horse-Face Skirt Hanfu" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/song-dynasty-hanfu-horse-face-skirt/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Magenta Silk Saree Festive Look
 
@@ -566,9 +567,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/magenta-silk-saree-festive.webp" alt="Magenta Silk Saree Festive Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/magenta-silk-saree-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Indigo Yukata Summer Festival Look
 
@@ -579,9 +580,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/indigo-yukata-summer-festival.webp" alt="Indigo Yukata Summer Festival Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/indigo-yukata-summer-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Embroidered Kaftan Festive Look
 
@@ -592,9 +593,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a d
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/moroccan-embroidered-kaftan-eid.webp" alt="Embroidered Kaftan Festive Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/moroccan-embroidered-kaftan-eid/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Traditional Dirndl Festival Look
 
@@ -605,9 +606,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a t
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/dirndl-oktoberfest-festive.webp" alt="Traditional Dirndl Festival Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/dirndl-oktoberfest-festive/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Emerald Embroidered Kurta Festive Set
 
@@ -618,15 +619,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-embroidered-kurta-festive-set.webp" alt="Emerald Embroidered Kurta Festive Set" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/emerald-embroidered-kurta-festive-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="jersey-sports"></a>
 
 ## ⚽ 유니폼·스포츠
 
-추천 6개 · [전체 17개 보기](cases/jersey-sports.md)
+추천 6개 · [전체 21개 보기](cases/jersey-sports.md)
 
 ### Vintage American Striped Sports Basketball Jersey
 
@@ -637,9 +638,9 @@ Swap outfit on athlete in photo 1 with the retro vintage striped basketball jers
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vintage-retro-club-sports-jersey.webp" alt="Vintage American Striped Sports Basketball Jersey" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vintage-retro-club-sports-jersey.webp" alt="Vintage American Striped Sports Basketball Jersey" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/vintage-retro-club-sports-jersey/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Basketball Jersey Court Look
 
@@ -650,9 +651,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-basketball-jersey-court.webp" alt="Basketball Jersey Court Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-basketball-jersey-court.webp" alt="Basketball Jersey Court Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/plain-basketball-jersey-court/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Road Cycling Kit Ride Look
 
@@ -663,9 +664,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/road-cycling-kit-ride.webp" alt="Road Cycling Kit Ride Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/road-cycling-kit-ride.webp" alt="Road Cycling Kit Ride Look" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/road-cycling-kit-ride/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Ice Hockey Jersey Rink Look
 
@@ -676,9 +677,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a p
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-hockey-jersey-rink.webp" alt="Ice Hockey Jersey Rink Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plain-hockey-jersey-rink.webp" alt="Ice Hockey Jersey Rink Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/plain-hockey-jersey-rink/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Seamless Yoga Set Studio Look
 
@@ -689,9 +690,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a d
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yoga-set-studio-sports.webp" alt="Seamless Yoga Set Studio Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yoga-set-studio-sports.webp" alt="Seamless Yoga Set Studio Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/yoga-set-studio-sports/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Retro Rugby Stripe Jersey Street Look
 
@@ -702,15 +703,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-rugby-stripe-jersey-street.webp" alt="Retro Rugby Stripe Jersey Street Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/retro-rugby-stripe-jersey-street.webp" alt="Retro Rugby Stripe Jersey Street Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/retro-rugby-stripe-jersey-street/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="casual-travel"></a>
 
 ## 🏖️ 캐주얼·여행
 
-추천 6개 · [전체 17개 보기](cases/casual-travel.md)
+추천 6개 · [전체 21개 보기](cases/casual-travel.md)
 
 ### Mediterranean Breezy Linen Vacation Two-Piece
 
@@ -721,9 +722,9 @@ Change clothes: Take the person from image 1 and dress her in the relaxed natura
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/mediterranean-linen-vacation-set.webp" alt="Mediterranean Breezy Linen Vacation Two-Piece" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/mediterranean-linen-vacation-set/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Breton Stripe Top City Break Outfit
 
@@ -734,9 +735,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/breton-stripe-top-city-break.webp" alt="Breton Stripe Top City Break Outfit" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/breton-stripe-top-city-break/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Yellow Rain Shell Hiking Trip
 
@@ -747,9 +748,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/yellow-rain-shell-hiking-trip.webp" alt="Yellow Rain Shell Hiking Trip" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/yellow-rain-shell-hiking-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Utility Cargo Vest Weekend Look
 
@@ -760,9 +761,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a k
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/utility-cargo-vest-festival.webp" alt="Utility Cargo Vest Weekend Look" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/utility-cargo-vest-festival/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Cable-Knit Cardigan Cabin Trip
 
@@ -773,9 +774,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in an 
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/cable-knit-cardigan-cabin-trip.webp" alt="Cable-Knit Cardigan Cabin Trip" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/cable-knit-cardigan-cabin-trip/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Forced Perspective Denim Travel Look
 
@@ -786,15 +787,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/forced-perspective-denim-travel-look.webp" alt="Forced Perspective Denim Travel Look" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/forced-perspective-denim-travel-look/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="menswear"></a>
 
 ## 🕶️ 남성복
 
-추천 6개 · [전체 17개 보기](cases/menswear.md)
+추천 6개 · [전체 21개 보기](cases/menswear.md)
 
 ### Distressed Brown Leather Biker Jacket Menswear
 
@@ -805,9 +806,9 @@ Keep identical male face, hair and jawline from image 1. Swap his outfit into th
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/distressed-leather-biker-jacket-menswear.webp" alt="Distressed Brown Leather Biker Jacket Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/distressed-leather-biker-jacket-menswear.webp" alt="Distressed Brown Leather Biker Jacket Menswear" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/distressed-leather-biker-jacket-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Camel Overcoat & Turtleneck Menswear
 
@@ -818,9 +819,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-overcoat-turtleneck-menswear.webp" alt="Camel Overcoat & Turtleneck Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/camel-overcoat-turtleneck-menswear.webp" alt="Camel Overcoat & Turtleneck Menswear" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/camel-overcoat-turtleneck-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Linen Camp-Collar Shirt Summer Look
 
@@ -831,9 +832,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-camp-collar-shirt-summer.webp" alt="Linen Camp-Collar Shirt Summer Look" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-camp-collar-shirt-summer.webp" alt="Linen Camp-Collar Shirt Summer Look" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/linen-camp-collar-shirt-summer/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Navy Wool Peacoat Menswear
 
@@ -844,9 +845,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a n
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-peacoat-menswear.webp" alt="Navy Wool Peacoat Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/navy-peacoat-menswear.webp" alt="Navy Wool Peacoat Menswear" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/navy-peacoat-menswear/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Brown Suede Trucker Jacket Menswear
 
@@ -857,9 +858,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in a t
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/brown-suede-trucker-jacket-mens.webp" alt="Brown Suede Trucker Jacket Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/brown-suede-trucker-jacket-mens.webp" alt="Brown Suede Trucker Jacket Menswear" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/brown-suede-trucker-jacket-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Chocolate Suede Overshirt Menswear
 
@@ -870,15 +871,15 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-suede-overshirt-mens.webp" alt="Chocolate Suede Overshirt Menswear" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/chocolate-suede-overshirt-mens.webp" alt="Chocolate Suede Overshirt Menswear" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/chocolate-suede-overshirt-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="color-swap"></a>
 
 ## 🎨 컬러 변경
 
-추천 6개 · [전체 17개 보기](cases/color-swap.md)
+추천 6개 · [전체 21개 보기](cases/color-swap.md)
 
 ### Puffer Jacket Cobalt Blue Recolor
 
@@ -889,9 +890,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/puffer-jacket-cobalt-recolor.webp" alt="Puffer Jacket Cobalt Blue Recolor" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/puffer-jacket-cobalt-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Pleated Midi Skirt Sage Green Recolor
 
@@ -902,9 +903,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/pleated-midi-skirt-sage-recolor.webp" alt="Pleated Midi Skirt Sage Green Recolor" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/pleated-midi-skirt-sage-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Linen Shirt Terracotta Recolor
 
@@ -915,9 +916,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a r
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/linen-shirt-terracotta-recolor.webp" alt="Linen Shirt Terracotta Recolor" width="320"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/linen-shirt-terracotta-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Wide-Leg Jeans Washed Black Recolor
 
@@ -928,9 +929,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in hig
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/wide-leg-jeans-black-recolor.webp" alt="Wide-Leg Jeans Washed Black Recolor" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/wide-leg-jeans-black-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Corduroy Jacket Rust Recolor
 
@@ -941,9 +942,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/corduroy-jacket-rust-recolor.webp" alt="Corduroy Jacket Rust Recolor" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/corduroy-jacket-rust-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Satin Blouse Wine Recolor
 
@@ -954,15 +955,15 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/satin-blouse-wine-recolor.webp" alt="Satin Blouse Wine Recolor" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/satin-blouse-wine-recolor/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 <a id="ecommerce-model"></a>
 
 ## 🛍️ 쇼핑몰 모델
 
-추천 6개 · [전체 17개 보기](cases/ecommerce-model.md)
+추천 6개 · [전체 21개 보기](cases/ecommerce-model.md)
 
 ### Ribbed Knit Midi Dress On-Model Shot
 
@@ -973,9 +974,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/ribbed-knit-midi-dress-ecommerce.webp" alt="Ribbed Knit Midi Dress On-Model Shot" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/ribbed-knit-midi-dress-ecommerce/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Gray Hoodie Flat-Lay to Model Shot
 
@@ -986,9 +987,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** Nano Banana Pro
 
 
-<a href="https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/gray-hoodie-flatlay-to-model-mens.webp" alt="Gray Hoodie Flat-Lay to Model Shot" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/gray-hoodie-flatlay-to-model-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Belted Trench Dress Catalog Model
 
@@ -999,9 +1000,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in a b
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/trench-dress-catalog-model.webp" alt="Belted Trench Dress Catalog Model" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/trench-dress-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Quilted Vest Lookbook Model
 
@@ -1012,9 +1013,9 @@ Keep the exact same face, hair, body and identity from image 1; dress him in an 
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/quilted-vest-lookbook-model.webp" alt="Quilted Vest Lookbook Model" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/quilted-vest-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Leopard Cardigan Catalog Model
 
@@ -1025,9 +1026,9 @@ Keep the exact same face, hair, body and identity from image 1; dress her in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/leopard-cardigan-catalog-model.webp" alt="Leopard Cardigan Catalog Model" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/leopard-cardigan-catalog-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ### Plaid Blazer Lookbook Model
 
@@ -1038,9 +1039,93 @@ Keep the exact same face, hair, body and identity from image 1; dress him in the
 **모델:** GPT Image 2.5
 
 
-<a href="https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/plaid-blazer-lookbook-model.webp" alt="Plaid Blazer Lookbook Model" width="240"></a>
 
-[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/inspiration/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/plaid-blazer-lookbook-model/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+<a id="holiday-looks"></a>
+
+## 🎉 홀리데이 룩
+
+추천 6개 · [전체 24개 보기](cases/holiday-looks.md)
+
+### Black Lace Corset Witch Dress
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace-up corset-bodice midi witch dress with sheer black lace sleeves and a pointed black witch hat with a short black tulle veil from image 2. Moody candle-lit Halloween parlor with dried herbs and a vintage spell book on a table, three-quarter body shot from knees up. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 3:4.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-corset-witch-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-corset-witch-dress.webp" alt="Black Lace Corset Witch Dress" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-corset-witch-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Vampire Countess Lace Cape Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace ball gown with a high Victorian collar and a floor-length black velvet cape lined in blood-red satin from image 2. Grand gothic castle staircase lit by candelabras, full-body shot with the cape open to reveal the red lining. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/vampire-countess-lace-cape-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/vampire-countess-lace-cape-gown.webp" alt="Vampire Countess Lace Cape Gown" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/vampire-countess-lace-cape-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Emerald Velvet Witch Coat Dress
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the deep emerald-black velvet witch coat dress with a high collar, bell sleeves, antique silver clasps and a wide-brim black witch hat from image 2. Autumn forest path at dusk with fallen leaves and lantern light, three-quarter body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 4:5.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-witch-coat-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/emerald-velvet-witch-coat-dress.webp" alt="Emerald Velvet Witch Coat Dress" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/emerald-velvet-witch-coat-dress/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Oxblood Velvet Vampire Tailcoat (Men)
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress him in the oxblood velvet vampire tailcoat with a black satin waistcoat, white ruffled jabot shirt and black tailored trousers from image 2. Dim gothic library with tall candles and leather books, full-body shot standing by a carved chair. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/oxblood-velvet-vampire-tailcoat-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/oxblood-velvet-vampire-tailcoat-mens.webp" alt="Oxblood Velvet Vampire Tailcoat (Men)" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/oxblood-velvet-vampire-tailcoat-mens/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Black Lace Gothic Bride with Veil
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the black lace A-line wedding gown with a sweetheart neckline, long sheer lace sleeves, a long black tulle veil and a bouquet of dark burgundy roses from image 2. Overgrown gothic chapel with candles and ivy, full-body bridal shot holding the dark rose bouquet. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 2:3.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-bride-veil/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/black-lace-gothic-bride-veil.webp" alt="Black Lace Gothic Bride with Veil" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/black-lace-gothic-bride-veil/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
+
+### Reanimated Bride Ivory Chiffon Gown
+
+```text
+Keep the exact same face, hair, body and identity from image 1; dress her in the ivory draped chiffon gown with long bell sleeves, soft bandage-wrapped waist detail and a flowing floor-length skirt from image 2. Vintage laboratory set with old brass instruments, glowing bulbs and dramatic blue-white storm lighting, full-body shot. Adult faces fully visible and not cropped, no logos, no text, no watermark, photorealistic, aspect ratio 9:16.
+```
+
+**모델:** GPT Image 2.5
+
+
+<a href="https://aiclothswap.net/outfit-swap-prompts/p/reanimated-bride-ivory-chiffon-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts"><img src="images/reanimated-bride-ivory-chiffon-gown.webp" alt="Reanimated Bride Ivory Chiffon Gown" width="240"></a>
+
+[예시 결과 및 이 프롬프트 사용하기](https://aiclothswap.net/outfit-swap-prompts/p/reanimated-bride-ivory-chiffon-gown/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-ai-outfit-swap-prompts)
 
 ## 라이선스
 

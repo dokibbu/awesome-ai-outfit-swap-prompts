@@ -28,7 +28,8 @@
       "casual-travel": "Casual & Travel",
       "menswear": "Menswear",
       "color-swap": "Color Swap",
-      "ecommerce-model": "E-commerce Model"
+      "ecommerce-model": "E-commerce Model",
+      "holiday-looks": "Holiday Looks"
     }
   },
   "zh": {
@@ -60,7 +61,8 @@
       "casual-travel": "休闲与旅行",
       "menswear": "男装",
       "color-swap": "改色",
-      "ecommerce-model": "电商模特"
+      "ecommerce-model": "电商模特",
+      "holiday-looks": "节日造型"
     }
   },
   "zh-Hant": {
@@ -92,7 +94,8 @@
       "casual-travel": "休閒與旅行",
       "menswear": "男裝",
       "color-swap": "改色",
-      "ecommerce-model": "電商模特"
+      "ecommerce-model": "電商模特",
+      "holiday-looks": "節日造型"
     }
   },
   "ja": {
@@ -124,7 +127,8 @@
       "casual-travel": "カジュアル・旅行",
       "menswear": "メンズ",
       "color-swap": "カラー変更",
-      "ecommerce-model": "EC モデル"
+      "ecommerce-model": "EC モデル",
+      "holiday-looks": "ホリデー・ルック"
     }
   },
   "ko": {
@@ -156,7 +160,8 @@
       "casual-travel": "캐주얼·여행",
       "menswear": "남성복",
       "color-swap": "컬러 변경",
-      "ecommerce-model": "쇼핑몰 모델"
+      "ecommerce-model": "쇼핑몰 모델",
+      "holiday-looks": "홀리데이 룩"
     }
   },
   "es": {
@@ -188,7 +193,8 @@
       "casual-travel": "Casual y viaje",
       "menswear": "Moda masculina",
       "color-swap": "Cambio de color",
-      "ecommerce-model": "Modelo para e-commerce"
+      "ecommerce-model": "Modelo para e-commerce",
+      "holiday-looks": "Looks de temporada"
     }
   },
   "pt": {
@@ -220,7 +226,8 @@
       "casual-travel": "Casual e viagem",
       "menswear": "Moda masculina",
       "color-swap": "Troca de cor",
-      "ecommerce-model": "Modelo para e-commerce"
+      "ecommerce-model": "Modelo para e-commerce",
+      "holiday-looks": "Looks de festas"
     }
   },
   "fr": {
@@ -252,7 +259,8 @@
       "casual-travel": "Décontracté et voyage",
       "menswear": "Homme",
       "color-swap": "Changement de couleur",
-      "ecommerce-model": "Mannequin e-commerce"
+      "ecommerce-model": "Mannequin e-commerce",
+      "holiday-looks": "Looks de fêtes"
     }
   },
   "de": {
@@ -284,7 +292,8 @@
       "casual-travel": "Casual & Reisen",
       "menswear": "Herrenmode",
       "color-swap": "Farbwechsel",
-      "ecommerce-model": "E-Commerce-Model"
+      "ecommerce-model": "E-Commerce-Model",
+      "holiday-looks": "Festtags-Looks"
     }
   },
   "ru": {
@@ -316,7 +325,8 @@
       "casual-travel": "Повседневное и путешествия",
       "menswear": "Мужская одежда",
       "color-swap": "Смена цвета",
-      "ecommerce-model": "Модель для e-commerce"
+      "ecommerce-model": "Модель для e-commerce",
+      "holiday-looks": "Праздничные образы"
     }
   },
   "tr": {
@@ -348,7 +358,8 @@
       "casual-travel": "Günlük ve seyahat",
       "menswear": "Erkek giyim",
       "color-swap": "Renk değiştirme",
-      "ecommerce-model": "E-ticaret modeli"
+      "ecommerce-model": "E-ticaret modeli",
+      "holiday-looks": "Tatil Görünümleri"
     }
   },
   "it": {
@@ -380,7 +391,8 @@
       "casual-travel": "Casual e viaggio",
       "menswear": "Uomo",
       "color-swap": "Cambio colore",
-      "ecommerce-model": "Modella e-commerce"
+      "ecommerce-model": "Modella e-commerce",
+      "holiday-looks": "Look festivi"
     }
   }
 }
